@@ -17,7 +17,7 @@ TEXT_FINAL = "final.txt"
 
 # ---------------- منابع ----------------
 LINKS = [
-    "https://zaya.link/Arista_HP_Final",
+    
     "https://raw.githubusercontent.com/ahsan-tepo1383/kv98/refs/heads/main/final.txt",
     "https://raw.githubusercontent.com/almasi98/omax98/refs/heads/main/final.txt",
     "https://raw.githubusercontent.com/tepo18/sab-vip10/refs/heads/main/final1.txt",  
