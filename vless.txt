@@ -2,8 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://e959d53c-91e9-459d-a332-d59ae89b3b4c@199.247.18.92:443?security=tls&sni=hdfynpv2d1.makingirangreatagain.com&fp=chrome&type=ws&path=/Iyq035lnud9R8ruNNrqGxZZ2&host=hdfynpv2d1.makingirangreatagain.com&encryption=none#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@economist.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@indeed.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@tgju.org:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@bluehost.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@mvps.net:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
