@@ -2,13 +2,33 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://BAu7ZSyD3IZppnCOxCzaFXje3SECzZgX83e3x7yZA8SDCacyagKFlEO6O0AlTSwDDe4SF@louber.missionsec.us:443?allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://253bc477d4e43c209f2d427272968280@202.181.103.246:443?allowInsecure=1&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?allowInsecure=1&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://253bc477d4e43c209f2d427272968280@160.16.231.103:1331?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:1700?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:3296?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?allowInsecure=1&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://253bc477d4e43c209f2d427272968280@160.16.68.250:3160?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://253bc477d4e43c209f2d427272968280@160.16.196.59:1802?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://R3SuZDAZXDO3FYqxwK36l7gpSIBTFCxlzc89a7qg3S9p8BOCeACSFaA8nxeD2ZlT5Nl4O@spevoy.missionsec.us:443?security=tls&sni=spevoy.missionsec.us#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://2ee85121-31de-4581-a492-eb00f606e392@51.81.203.233:443?security=tls&headerType=none&type=tcp&sni=rs4.freeguard.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:443?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:1924?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://253bc477d4e43c209f2d427272968280@153.121.45.139:1700?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://02XtoczO7V@creativecommons.org:443?security=tls&sni=mooshali.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=firefox&type=ws&host=mooshali.arshiacomplus.dpdns.org&path=%2Fhishhhh123#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://253bc477d4e43c209f2d427272968280@202.181.103.246:443?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://253bc477d4e43c209f2d427272968280@160.16.72.33:3294?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&sni=dus.freeguard.org#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://BAu7ZSyD3IZppnCOxCzaFXje3SECzZgX83e3x7yZA8SDCacyagKFlEO6O0AlTSwDDe4SF@louber.missionsec.us:443?allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://BAu7ZSyD3IZppnCOxCzaFXje3SECzZgX83e3x7yZA8SDCacyagKFlEO6O0AlTSwDDe4SF@louber.missionsec.us:443?allowInsecure=0&sni=louber.missionsec.us#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://253bc477d4e43c209f2d427272968280@202.181.103.246:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://1sbtkLK7F3@195.22.157.104:55700?path=%2Fmoshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=joon.arshiacomplus.dpdns.org#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://1sbtkLK7F3@195.22.157.104:37085/?type=httpupgrade&host=joon.arshiacomplus.dpdns.org&path=%2Fmoshali2plus&security=tls&sni=joon.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=firefox#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://o6x5BZAuSj@creativecommons.org:2053?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://02XtoczO7V@creativecommons.org:443?security=tls&sni=mooshali.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=firefox&type=ws&host=mooshali.arshiacomplus.dpdns.org&path=%2Fhishhhh123#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://2ee85121-31de-4581-a492-eb00f606e392@51.81.203.233:443?security=tls&headerType=none&type=tcp&sni=rs4.freeguard.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?path=%2Faioproxybot%2F129.150.49.58-18650&security=tls&host=aio.zipzap.biz.id&type=ws&sni=aio.zipzap.biz.id#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1

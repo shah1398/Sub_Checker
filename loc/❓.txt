@@ -2,14 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@net2025.afsharidempire.uk:30205/?obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&sni=net2025.afsharidempire.uk&insecure=1&alpn=h3#hamedp71%3A%3A%E2%9D%93
 hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335/?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#hamedp71%3A%3A%E2%9D%93
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#hamedp71%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiJiNjJhOTQ4Yy1mYWEyLTRlOGEtYmY4YS0zZmYzMTIxYzg3NWEuYXNvdWwtYXZhLnRvcCIsImFpZCI6IjAiLCJob3N0IjoiYjYyYTk0OGMtZmFhMi00ZThhLWJmOGEtM2ZmMzEyMWM4NzVhLmFzb3VsLWF2YS50b3AiLCJpZCI6IjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsIm5ldCI6IndzIiwicGF0aCI6Ii9henVtYXNlLnJlbiIsInBvcnQiOiI0NDMiLCJwcyI6ImhhbWVkcDcxOjrinZMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@thailandnet65.ir:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
-vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@w3.org:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=VyFlPo6269.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=VyFlPo6269.SoLeNtRaA.iNfO#hamedp71%3A%3A%E2%9D%93
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@86.104.74.45:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%E2%9D%93
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008237661.vienna-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%E2%9D%93
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638938755008237661.vienna-drc-tusacaf.info:8880?mode=gun&security=none&encryption=none&authority=skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---skypro_vpn---&type=grpc#hamedp71%3A%3A%E2%9D%93
-vless://1a834111-ded2-4078-f4a6-6dfd32b346c5@rplcehdfy3.makingirangreatagain.com:2053?security=reality&encryption=none&pbk=bJGeXtIQr6IAeu46GXZZZR2UWcewi0MLa09Wp82PBD8&headerType=none&fp=chrome&type=tcp&sni=rplcehdfy3.makingirangreatagain.com#hamedp71%3A%3A%E2%9D%93
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OuKdkyIsImFkZCI6ImI2MmE5NDhjLWZhYTItNGU4YS1iZjhhLTNmZjMxMjFjODc1YS5hc291bC1hdmEudG9wIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiI1ZjcyNmZlMy1kODJlLTRkYTUtYTcxMS04YWYwY2JiMmI2ODIiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2F6dW1hc2UucmVuIiwiaG9zdCI6ImI2MmE5NDhjLWZhYTItNGU4YS1iZjhhLTNmZjMxMjFjODc1YS5hc291bC1hdmEudG9wIiwidGxzIjoidGxzIn0
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@economist.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@autotrader.co.uk:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@bluehost.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@tgju.org:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@fonts.com:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@ihiran.ir:443?security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=%2Fcbde4058-6b81-432b-8689-dd7ce10e479c#hamedp71%3A%3A%E2%9D%93
