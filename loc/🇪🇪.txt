@@ -4,4 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://9e43619a-5067-42f3-a82e-bed81703a771@38.180.230.78:8766?security=reality&encryption=none&pbk=EwoQCKDlHuB925c6rz8488SfSUYSMMZFcR1T6PILWWM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6bfe#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@91.149.254.138:443?&security=tls&sni=kejiland.freewarp.eu.org&type=ws&headerType=none&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
