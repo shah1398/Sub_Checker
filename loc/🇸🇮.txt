@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://60e827e8-db5b-4635-9fa2-793e37a81be1@tunnyl.ru:8443?type=tcp&security=reality&pbk=M_vyGgaMp6Unz28r-3jFP-VwRoY39Edhn_0bQPknqmc&fp=random&sni=yahoo.com&sid=08f6093b944bd385&spx=%2F&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AE

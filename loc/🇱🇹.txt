@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://3a14c90d-2f36-4fab-82c9-fae2897ff43b@hield.ru:8443?type=tcp&security=reality&pbk=c7pmEcOmq_DP_i2LVMrBi85FQ-ueco4teFc2IJb8zVE&fp=chrome&sni=yahoo.com&sid=4ddc&spx=%2F&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
