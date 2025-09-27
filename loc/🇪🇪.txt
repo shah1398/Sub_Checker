@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://9e43619a-5067-42f3-a82e-bed81703a771@38.180.230.78:8766?security=reality&encryption=none&pbk=EwoQCKDlHuB925c6rz8488SfSUYSMMZFcR1T6PILWWM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=6bfe#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
