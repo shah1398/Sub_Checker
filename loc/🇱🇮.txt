@@ -1,0 +1,7 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://1lpxy6haqm@45.15.167.13:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%AE
+vless://1lpxy6haqm@45.15.167.13:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%AE
+vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%AE
