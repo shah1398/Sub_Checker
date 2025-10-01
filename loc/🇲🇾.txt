@@ -4,7 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
 vmess://eyJhZGQiOiI0NS4xMjguNTQuODQiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNzJmZWI4MzMtNDE5Ni00YTcwLWEzZjUtYWViMDExZjdkNTM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzMxMyIsInBzIjoiaGFtZWRwNzE6OvCfh7Lwn4e+Iiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiI0NS44OS4xMDcuNTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjNkYmFhNWMzLWY0OTMtNGFkMS05YzVkLTg1MjVmNDk2MmE2YyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoyMDUyMSwicHMiOiJoYW1lZHA3MTo68J+HsvCfh74iLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880/?type=grpc&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880/?type=grpc&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BE
