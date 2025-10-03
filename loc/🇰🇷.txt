@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vless://0199a205-a7af-f904-39f0-5c1dd4fda456@14.35.29.177:15903?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=abcd.freewarp.eu.org&type=ws&sni=abcd.freewarp.eu.org#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://0199a2aa-7085-7fd4-9604-b8f3e3aab5fd@121.158.194.32:11413?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=abcd.freewarp.eu.org&type=ws&sni=abcd.freewarp.eu.org#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://0199a2aa-7085-7fd4-9604-b8f3e3aab5fd@125.130.15.106:20280?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=abcd.freewarp.eu.org&type=ws&sni=abcd.freewarp.eu.org#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://0199a2aa-7085-7fd4-9604-b8f3e3aab5fd@121.158.194.32:11413?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=abcd.freewarp.eu.org&type=ws&sni=abcd.freewarp.eu.org#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
