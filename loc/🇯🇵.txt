@@ -2,8 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTEyOC1nY206MTAwODZAMTUzLjEyMS41MS4yMTQ6MTAwODc=#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vmess://eyJhZGQiOiI0Ny43NC4xMC4xMTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjJlODBkMGM4LTE2YzgtNDIwYS1iODZjLWMyZTdlMmU0Zjc2NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjozNDAyOSwicHMiOiJoYW1lZHA3MTo68J+Hr/Cfh7UiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.88:1806?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://253bc477d4e43c209f2d427272968280@160.16.124.55:3160?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vmess://eyJhZGQiOiI0Ny43NC4xMC4xMTEiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjcyODI1N2IxLTUxNTgtNDdkOS1hMWExLTZhYzI5ZmFhYjg3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0Ijo0NjA0OSwicHMiOiJoYW1lZHA3MTo68J+Hr/Cfh7UiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
 vless://019984df-e8d5-10ee-435f-9143d7beb674@47.79.34.117:10036?path=%2Fsnippets%3Fip%3DProxyIP.Oracle.cmliussss.net&security=tls&encryption=none&host=getsub.saas.classelivre.eu.org&fp=random&type=ws&sni=getsub.saas.classelivre.eu.org#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
