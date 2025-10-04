@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206RDh3d1B1OVR4bGdhd3MyK3BIeHpJUzhneDZzNlJXdzdibGZ0bkVjSmZoQT0=@174.138.22.94:8443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsInYiOiIyIiwicHMiOiJoYW1lZHA3MTo68J+HuPCfh6wiLCJwb3J0IjoyODAxMSwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwidHlwZSI6IiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 vless://4aab091f-70c6-41d2-a9cf-a002be414821@188.166.227.1:81?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=m.zoom.us&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://34393e91-834d-4a3d-a901-bbfde643c4e0@206.189.83.23:25288?encryption=none&flow=xtls-rprx-vision&security=reality&sni=icloud.cdn-apple.com&fp=chrome&pbk=kGb4d8KXEtQ3ayLLBMs5N2dz5__9aH7wdk0QEwl6f2Q&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
