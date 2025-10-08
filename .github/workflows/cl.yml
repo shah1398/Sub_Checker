@@ -48,10 +48,14 @@ jobs:
           git add .
           
           if ! git diff --staged --quiet; then
-            echo "Changes detected. Committing and pushing..."
+            echo "Changes detected. Committing..."
             git commit -m "chore: Update subscription results [skip ci]"
-            # با استفاده از --force، نتایج جدید همیشه بازنویسی می‌شوند و از تداخل جلوگیری می‌شود
-            git push --force
+            
+            echo "Pulling remote changes before push..."
+            git pull --rebase
+            
+            echo "Pushing changes to remote..."
+            git push
           else
             echo "No changes detected to commit."
           fi
