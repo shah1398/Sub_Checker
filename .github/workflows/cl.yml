@@ -1,0 +1,60 @@
+
+name: Auto Sub Checker
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */5 * * *'
+
+# جلوگیری از اجرای همزمان اکشن برای حل قطعی مشکل Merge Conflict
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests psutil retrying PyYaml
+
+      # تمیز کردن نتایج قدیمی برای شروعی تازه در هر اجرا
+      - name: Clean up old results
+        run: |
+          rm -f final.txt final_b64.txt vless*.txt vmess*.txt trojan*.txt ss*.txt hy2*.txt wireguard*.txt socks*.txt
+          rm -rf loc/
+
+      - name: Set execute permissions
+        run: |
+          chmod +x xray/xray
+          chmod +x hy2/hysteria
+
+      - name: Run checker script
+        run: python cl.py
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add .
+          
+          if ! git diff --staged --quiet; then
+            echo "Changes detected. Committing and pushing..."
+            git commit -m "chore: Update subscription results [skip ci]"
+            git pull --rebase
+            git push
+          else
+            echo "No changes to commit."
+          fi
