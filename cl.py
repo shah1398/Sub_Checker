@@ -2047,20 +2047,17 @@ def save_sorted_configs(configs: list):
 # بخش اصلی اجرای اسکریپت (نسخه اصلاح‌شده برای حل خطای 403)
 # ==============================================================================
 if __name__ == "__main__":
+    # مرحله ۱: دریافت تمام کانفیگ‌ها از لینک‌ها
     all_configs_raw = []
     if LINK_PATH:
         print(f"Fetching from {len(LINK_PATH)} link(s)...")
-
-        # ۱. یک هدر برای معرفی اسکریپت به عنوان مرورگر واقعی تعریف می‌کنیم
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36'
         }
-
         for link in LINK_PATH:
             if link.startswith("http"):
                 try:
                     print(f"Fetching: {link}")
-                    # ۲. هدر تعریف شده را به درخواست اضافه می‌کنیم
                     response = requests.get(link, timeout=15, headers=headers)
                     response.raise_for_status()
                     all_configs_raw.extend(response.text.splitlines())
@@ -2068,20 +2065,39 @@ if __name__ == "__main__":
                 except requests.RequestException as e:
                     print(f"!!! Failed to fetch {link}: {e}")
 
-    # مرحله ۲: تمیز کردن و حذف تکراری‌ها
+    # مرحله ۲: تمیز کردن، حذف تکراری‌ها و کانفیگ‌های خراب
+    print("Cleaning and removing duplicates...")
     cleaned_configs = clear_p(all_configs_raw)
     print(f"Found {len(cleaned_configs)} unique configs after cleaning.")
 
-    # مرحله ۳: تنظیم تگ اولیه
+    # مرحله ۳: تنظیم تگ اولیه (با مدیریت خطای بهتر)
+    print(f"Setting initial tag 'hamedp71' for all configs...")
     tagged_configs = set_initial_tag(cleaned_configs, "hamedp71")
+    
+    # مرحله ۴: آماده کردن لیست نهایی کانفیگ‌های قابل تست
+    # به جای نوشتن در فایل، لیست را مستقیماً استفاده می‌کنیم
+    testable_configs = tagged_configs
+    print(f"Prepared {len(testable_configs)} configs for testing.")
 
-    # مرحله ۴: نوشتن کانفیگ‌های آماده در فایل ورودی برای تستر
-    print(f"Writing {len(tagged_configs)} prepared configs to '{TEXT_PATH}' for testing...")
-    with open(TEXT_PATH, "w", encoding="utf-8") as f:
-        f.write("\n".join(tagged_configs))
+    # مرحله ۵: اجرای فرآیند اصلی تست (با ارسال مستقیم لیست)
+    # تابع ping_all را برای پذیرش لیست ورودی تغییر می‌دهیم
+    def ping_all_modified(configs_to_test):
+        print("igo")
+        # دیگر نیازی به load_config نیست
+        sun_nms = configs_to_test
+        is_dict = False # چون ما همیشه لیست متنی می‌دهیم
 
-    # مرحله ۵: اجرای فرآیند اصلی تست
-    ping_all()
+        if not sun_nms:
+            print("Warning: No testable configs found after preparation. Skipping tests.")
+            return
+
+        with ThreadPoolExecutor(max_workers=TH_MAX_WORKER) as executor:
+            # تابع process_ping را با لاگ‌های بهتری که قبلا ساختیم استفاده می‌کنیم
+            futures = [executor.submit(process_ping, i, t) for t, i in enumerate(sun_nms)]
+        
+        # بخش ذخیره فایل‌های متنی را حذف می‌کنیم چون دیگر کاربردی ندارد
+
+    ping_all_modified(testable_configs)
 
     # مرحله ۶: ذخیره نتایج نهایی به صورت مرتب‌شده
     save_sorted_configs(FIN_CONF)
@@ -2090,17 +2106,3 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
