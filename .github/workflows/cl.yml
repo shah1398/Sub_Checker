@@ -1,8 +1,9 @@
-name: Sub Checker Creator
+name: ch
 
 on:
   workflow_dispatch:
   schedule:
+    # ! مشکل ۲: اصلاح زمان‌بندی به هر ۵ دقیقه
     - cron: '*/5 * * * *'
 
 concurrency:
@@ -10,14 +11,15 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
+  # ! مشکل ۱: این دسترسی حیاتی است
   contents: write
   workflows: write
 
 jobs:
-  build-and-commit:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -25,39 +27,36 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: pip install requests psutil retrying PyYaml
 
-      - name: Clean up old results before run
+      - name: Clean up old results
         run: |
           rm -f final.txt final_b64.txt vless*.txt vmess*.txt trojan*.txt ss*.txt hy2*.txt wireguard*.txt socks*.txt
           rm -rf loc/
 
-      - name: Set execute permissions for binaries
+      - name: Set execute permissions
         run: |
           chmod +x xray/xray
           chmod +x hy2/hysteria
 
-      - name: Run the checker script
+      - name: Run checker script
         run: python cl.py
 
-      - name: Commit and Push new results
+      - name: Commit and push if there are changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
+          # نکته بهبود: جلوگیری از کامیت شدن خود فایل yml
           git reset .github/workflows/cl.yml
           git add .
           
           if ! git diff --staged --quiet; then
-            echo "Changes detected. Committing..."
+            echo "Changes detected. Committing and pushing..."
             git commit -m "chore: Update subscription results [skip ci]"
-            
-            echo "Pulling remote changes before push..."
             git pull --rebase
-            
-            echo "Pushing changes to remote..."
             git push
           else
-            echo "No changes detected to commit."
+            echo "No changes to commit."
           fi
