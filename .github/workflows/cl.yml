@@ -1,85 +1,57 @@
-name: Auto Sub Checker
+name: Sub Checker Creator
 
 on:
-  # اجازه اجرای دستی از طریق رابط کاربری گیت‌هاب
   workflow_dispatch:
   schedule:
-    # اجرا هر 4 ساعت یکبار
     - cron: '0 */4 * * *'
 
-# جلوگیری از اجرای همزمان اکشن برای حل قطعی مشکل Merge Conflict
 concurrency:
   group: ${{ github.workflow }}
   cancel-in-progress: true
 
 permissions:
-  contents: write # مجوز نوشتن برای کامیت و پوش کردن لازم است
+  contents: write
 
 jobs:
-  deploy:
+  build-and-commit:
     runs-on: ubuntu-latest
-    # اضافه کردن تایم‌اوت کلی برای کل Job
-    timeout-minutes: 240 # 4 ساعت
     steps:
-      # ... بقیه مراحل شما بدون تغییر باقی می‌مانند ...
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12' # نسخه دقیق پایتون
+          python-version: '3.12'
 
-      # --- کش کردن وابستگی‌ها برای سرعت بیشتر و پایداری (بسیار توصیه می‌شود) ---
-      - name: Set weekly cache key
-        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-
-      - name: Cache dependencies
-        uses: actions/cache@v4
-        with:
-          key: pip-cache-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/requirements.txt') }}-${{ env.cache_id }}
-          path: ~/.cache/pip
-          restore-keys: |
-            pip-cache-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-
-            # یک کلید بازگشتی عمومی‌تر برای مواقعی که key دقیقاً match نمی‌کند
-      # --- پایان بخش کش ---
-
-      - name: Install dependencies
-        # اگر فایل requirements.txt دارید، بهتر است از آن استفاده کنید: run: pip install -r requirements.txt
+      - name: Install Python dependencies
         run: pip install requests psutil retrying PyYaml
 
-      # تمیز کردن نتایج قدیمی برای شروعی تازه در هر اجرا
-      - name: Clean up old results
+      - name: Clean up old results before run
         run: |
           rm -f final.txt final_b64.txt vless*.txt vmess*.txt trojan*.txt ss*.txt hy2*.txt wireguard*.txt socks*.txt
-          # اطمینان از حذف دایرکتوری 'loc'
           rm -rf loc/
 
-      - name: Set execute permissions
+      - name: Set execute permissions for binaries
         run: |
           chmod +x xray/xray
           chmod +x hy2/hysteria
 
-      - name: Run checker script
+      - name: Run the checker script
         run: python cl.py
 
-      - name: Commit and push if there are changes
-        id: commit_and_push # این id برای استفاده از خروجی لازم است
+      - name: Commit and Push new results
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           git add .
           
           if ! git diff --staged --quiet; then
             echo "Changes detected. Committing and pushing..."
             git commit -m "chore: Update subscription results [skip ci]"
-            git pull --rebase
-            git push
-            echo "committed=true" >> $GITHUB_OUTPUT # <--- جایگزین شد
+            # با استفاده از --force، نتایج جدید همیشه بازنویسی می‌شوند و از تداخل جلوگیری می‌شود
+            git push --force
           else
-            echo "No changes to commit."
-            echo "committed=false" >> $GITHUB_OUTPUT # <--- جایگزین شد
+            echo "No changes detected to commit."
           fi
