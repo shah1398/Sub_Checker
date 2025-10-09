@@ -5,7 +5,8 @@ on:
   workflow_dispatch:
   # هر 5 دقیقه اجرا شود. (مطمئن شوید که شاخه main شما default branch است.)
   schedule:
-    - cron: '*/240 * * * *' 
+    # اجرا هر 4 ساعت یکبار
+    - cron: '0 */4 * * *'
 
 # جلوگیری از اجرای همزمان اکشن برای حل قطعی مشکل Merge Conflict
 concurrency:
