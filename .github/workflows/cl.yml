@@ -4,7 +4,7 @@ name: Auto Sub Checker
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */5 * * * *'
+    - cron: '*/5 * * * *'
 
 # جلوگیری از اجرای همزمان اکشن برای حل قطعی مشکل Merge Conflict
 concurrency:
