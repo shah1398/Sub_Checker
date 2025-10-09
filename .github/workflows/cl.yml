@@ -11,7 +11,7 @@ concurrency:
 
 permissions:
   contents: write
-  workflows: write # دسترسی لازم برای آپدیت کردن فایل yml توسط خودش
+  workflows: write
 
 jobs:
   build-and-commit:
@@ -23,7 +23,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.14'
+          python-version: '3.11'
 
       - name: Install Python dependencies
         run: pip install requests psutil retrying PyYaml
@@ -46,9 +46,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # فایل yml را از حالت staged خارج می‌کنیم تا فقط نتایج کامیت شوند
           git reset .github/workflows/cl.yml
-
           git add .
           
           if ! git diff --staged --quiet; then
