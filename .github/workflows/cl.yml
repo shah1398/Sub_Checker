@@ -10,7 +10,6 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
-  workflows: write
   contents: write
 
 jobs:
