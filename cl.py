@@ -1940,10 +1940,10 @@ def set_initial_tag(configs_list: list, new_tag: str) -> list:
 def country_code_to_emoji(code: str) -> str:
     """کد دو حرفی کشور را به ایموجی پرچم تبدیل می‌کند."""
     if not isinstance(code, str) or len(code) != 2:
-        return "❓"
+        return "🏴‍☠️"
     code = code.upper()
     if code == "XX":
-        return "❓"
+        return "🏴‍☠️"
     return "".join(chr(ord(c) + 127397) for c in code)
 
 # ==============================================================================
@@ -2091,6 +2091,7 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
 
 
