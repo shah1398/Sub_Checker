@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@indeed.com:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://01999036-500a-f27f-ee32-ee78844f2e4d@139.28.221.213:48004?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-dHJvamFuOi8vaXdhbmdqaWVAMTU4LjEwMS4xMS4yMDQ6MTU4MDU/YWxsb3dJbnNlY3VyZT0xJnNuaT1ub2Rlcy44MzA5MDEueHl6JnR5cGU9d3MmaG9zdD1ub2Rlcy44MzA5MDEueHl6JnBhdGg9LyNoYW1lZHA3MSUzQSUzQSVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOA==
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638936661878823466.ahvaz-drc-tusacae.info:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
