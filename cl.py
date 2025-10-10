@@ -1846,7 +1846,7 @@ def process_ping(i: str, t: int, is_dict: bool, counter=2):
         # توقف پردازش‌ها
         if i.startswith("hy2://") or i.startswith("hysteria2://"):
             process_manager.stop_process(f"hysteria_{t}")
-        process_manager.stop_process(f"xray_{t}")```
+        process_manager.stop_process(f"xray_{t}")
 
 
 def load_config():
@@ -2090,5 +2090,6 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
 
