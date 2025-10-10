@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vmess://eyJhZGQiOiIxMDMuMjI5LjEyNy4yMTIiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjY3Njg4MzllLWZhMWItNDg4ZS1hNzE1LTJhOGRmYWViYmVhNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0Ijo1NzIwNiwicHMiOiJoYW1lZHA3MTo68J+HufCfh7wiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
