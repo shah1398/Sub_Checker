@@ -1755,101 +1755,46 @@ def get_ip_details(ip_address: Optional[str], original_config_str: str,proxies_t
         final_config_string = f"{config_base}#{new_tag_encoded}"
         
         FIN_CONF.append(final_config_string)
-# ... (بعد از تابع get_ip_details و قبل از if __name__ == "__main__")
 
-def s_xray(conf_path, t):
-    """Starts an Xray process."""
-    xray_abs = os.path.abspath("xray/xray")
-    proc = subprocess.Popen([xray_abs, 'run', '-c', conf_path], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    process_manager.add_process(f"xray_{t}", proc.pid)
 
-def s_hy2(path_file, t):
-    """Starts a Hysteria2 process."""
-    hy = subprocess.Popen(['hy2/hysteria', 'client', '-c', path_file], stdin=subprocess.DEVNULL, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-    process_manager.add_process(f"hysteria_{t}", hy.pid)
+def load_config():
+    """
+    کانفیگ‌ها را از فایل normal.txt می‌خواند و تمیز می‌کند.
+    """
+    TEXT_PATH = "normal.txt" # مطمئن می‌شویم که از فایل درست می‌خوانیم
+    try:
+        with open(TEXT_PATH, "r", encoding="utf-8") as f:
+            lines = f.read().splitlines()
+            # تمیز کردن و حذف تکراری‌ها قبل از تست
+            cleaned_lines = clear_p(lines) 
+            # تنظیم تگ اولیه برای همه
+            tagged_lines = set_initial_tag(cleaned_lines, "hamedp71")
+            print(f"Loaded and prepared {len(tagged_lines)} configs from {TEXT_PATH} for testing.")
+            return tagged_lines, False # is_dict همیشه False است
+    except FileNotFoundError:
+        print(f"ERROR: File not found at {TEXT_PATH}")
+        return [], False
+    except Exception as e:
+        print(f"ERROR: Unexpected error loading config from {TEXT_PATH}: {e}")
+        return [], False
 
-def process_ping(i: str, t: int, is_dict: bool, counter=2):
-    """Processes a single configuration: starts proxy, tests connection, and gathers details."""
-    global FIN_CONF
-    print(f"Testing config #{t}: {i.strip()[:60]}...") # لاگ بهتر برای دنبال کردن
+def ping_all():
+    """
+    تابع اصلی تست که ورودی خود را از فایل می‌خواند.
+    """
+    print("Starting the check process (igo)...")
     
-    while t > 100:
-        t -= 100
-        
-    path_test_file = f"xray/config_test_ping{t}.json"
-    hy2_path_test_file = f"hy2/config{t}.yaml"
-    
-    is_wrong = False
-    with open(path_test_file, "w") as f:
-        try:
-            # is_dict همیشه False خواهد بود طبق منطق جدید
-            f.write(parse_configs(i, cv=t + 2, hy2_path=hy2_path_test_file))
-        except Exception as E:
-            is_wrong = True
-            print(f"Error parsing config #{t}: {E}")
+    # مرحله ۱: خواندن و آماده‌سازی کانفیگ‌ها از فایل
+    sun_nms, is_dict = load_config()
 
-    if not is_wrong:
-        with open(path_test_file, "r") as f:
-            temp3 = json.load(f)
-        port = temp3["inbounds"][1]["port"]
-        
-        if i.startswith("hy2://") or i.startswith("hysteria2://"):
-            s_hy2(hy2_path_test_file, t)
-            
-        s_xray(path_test_file, t)
-        time.sleep(3) # زمان کافی برای بالا آمدن سرویس‌ها
+    if not sun_nms:
+        print("Warning: No testable configs found in normal.txt. Skipping tests.")
+        return
 
-        if os.path.exists(path_test_file):
-            os.remove(path_test_file)
-        if os.path.exists(hy2_path_test_file):
-            os.remove(hy2_path_test_file)
-
-        proxies = {
-            "http": f"http://127.0.0.{t+2}:{port}",
-            "https": f"http://127.0.0.{t+2}:{port}"
-        }
-
-        @retry(stop_max_attempt_number=3, wait_fixed=500, retry_on_exception=lambda x: isinstance(x, Exception))
-        def pingg():
-            try:
-                url = test_link_
-                headers = {"Connection": "close"}
-                start = time.time()
-                response = requests.get(url, proxies=proxies, timeout=10, headers=headers)
-                elapsed = (time.time() - start) * 1000
-                if response.status_code == 204 or (response.status_code == 200 and len(response.content) == 0):
-                    return f"{int(elapsed)}"
-                else:
-                    raise IOError(f"Connection test error, status code: {response.status_code}")
-            except RequestException as e:
-                print(f"Ping failed for config #{t}: {e}")
-                return "-1"
-
-        result = "-1"
-        try:
-            result = pingg()
-        except Exception as e:
-            print(f"Ping failed for config #{t} after retries: {e}")
-            result = "-1"
-
-        if result != "-1":
-            print(f"SUCCESS: Config #{t} is alive with ping {result}ms.")
-            if CHECK_LOC:
-                public_ip = get_public_ipv4(t + 2, port)
-                if CHECK_IRAN:
-                    if not is_ip_accessible_from_iran_via_check_host(public_ip, proxies):
-                        get_ip_details(public_ip, i, proxies)
-                else:
-                    get_ip_details(public_ip, i, proxies)
-            else: # اگر چک کردن لوکیشن غیرفعال باشد
-                FIN_CONF.append(i)
-        
-        # توقف پردازش‌ها
-        if i.startswith("hy2://") or i.startswith("hysteria2://"):
-            process_manager.stop_process(f"hysteria_{t}")
-        process_manager.stop_process(f"xray_{t}")
-
-# تابع ping_all() دیگر وجود ندارد. این توابع اکنون در سطح بالا هستند.
+    # مرحله ۲: اجرای تست‌ها با استفاده از ThreadPool
+    with ThreadPoolExecutor(max_workers=TH_MAX_WORKER) as executor:
+        # تابع process_ping که قبلاً به سطح جهانی منتقل کردیم، اینجا فراخوانی می‌شود
+        futures = [executor.submit(process_ping, i, t, is_dict) for t, i in enumerate(sun_nms)]
 
 # ==============================================================================
 # بخش جدید برای پیش‌پردازش، تست و ذخیره‌سازی فایل‌ها
@@ -2015,65 +1960,41 @@ def save_sorted_configs(configs: list):
         filename = os.path.join("loc", f"{flag_emoji}.txt")
         write_to_file(filename, country_configs)
 # ==============================================================================
-# بخش اصلی اجرای اسکریپت (نسخه اصلاح‌شده برای حل خطای 403)
+# بخش اصلی اجرای اسکریپت (بازگشته به حالت استفاده از normal.txt)
 # ==============================================================================
-# ... (بعد از تعریف توابع بالا)
 if __name__ == "__main__":
-    # مرحله ۱: دریافت تمام کانفیگ‌ها از لینک‌ها
-    all_configs_raw = []
+    # مرحله ۱: دریافت تمام کانفیگ‌ها از لینک‌ها و نوشتن در normal.txt
+    TEXT_PATH = "normal.txt"
     if LINK_PATH:
-        print(f"Fetching from {len(LINK_PATH)} link(s)...")
+        print(f"Fetching from {len(LINK_PATH)} link(s) and writing to {TEXT_PATH}...")
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36'
         }
+        
+        # ابتدا فایل را خالی می‌کنیم
+        with open(TEXT_PATH, "w", encoding="utf-8") as f:
+            pass # فایل خالی شد
+
         for link in LINK_PATH:
             if link.startswith("http"):
                 try:
                     print(f"Fetching: {link}")
                     response = requests.get(link, timeout=15, headers=headers)
                     response.raise_for_status()
-                    all_configs_raw.extend(response.text.splitlines())
-                    print(f"Successfully fetched {link}")
+                    # محتوای هر لینک را به انتهای فایل اضافه می‌کنیم
+                    with open(TEXT_PATH, "a", encoding="utf-8") as f:
+                        f.write(response.text + "\n")
+                    print(f"Successfully fetched and appended from {link}")
                 except requests.RequestException as e:
                     print(f"!!! Failed to fetch {link}: {e}")
 
-    # مرحله ۲: تمیز کردن، حذف تکراری‌ها و کانفیگ‌های خراب
-    print("Cleaning and removing duplicates...")
-    cleaned_configs = clear_p(all_configs_raw)
-    print(f"Found {len(cleaned_configs)} unique configs after cleaning.")
+    # مرحله ۲: اجرای فرآیند اصلی تست (که از normal.txt می‌خواند)
+    ping_all()
 
-    # مرحله ۳: تنظیم تگ اولیه (با مدیریت خطای بهتر)
-    print(f"Setting initial tag 'hamedp71' for all configs...")
-    tagged_configs = set_initial_tag(cleaned_configs, "hamedp71")
-    
-    # مرحله ۴: آماده کردن لیست نهایی کانفیگ‌های قابل تست
-    testable_configs = tagged_configs
-    print(f"Prepared {len(testable_configs)} configs for testing.")
-
-    # مرحله ۵: اجرای فرآیند اصلی تست (با ارسال مستقیم لیست)
-    def ping_all_modified(configs_to_test):
-        print("Starting the check process (igo)...")
-        sun_nms = configs_to_test
-        is_dict = False # چون ما همیشه لیست متنی می‌دهیم
-
-        if not sun_nms:
-            print("Warning: No testable configs found after preparation. Skipping tests.")
-            return
-
-        with ThreadPoolExecutor(max_workers=TH_MAX_WORKER) as executor:
-            # حالا process_ping یک تابع جهانی است و قابل دسترس است
-            # ما False را برای پارامتر is_dict ارسال می‌کنیم
-            futures = [executor.submit(process_ping, i, t, False) for t, i in enumerate(sun_nms)]
-        
-    ping_all_modified(testable_configs)
-
-    # مرحله ۶: ذخیره نتایج نهایی به صورت مرتب‌شده
+    # مرحله ۳: ذخیره نتایج نهایی به صورت مرتب‌شده
     save_sorted_configs(FIN_CONF)
 
-    # مرحله ۷: اطمینان از توقف تمام فرآیندها در انتها
+    # مرحله ۴: اطمینان از توقف تمام فرآیندها در انتها
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
-
-
-
