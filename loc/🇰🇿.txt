@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
-vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@82.115.43.39:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
 vless://cef05993-4bb5-4eab-8ea1-acfe0bfbf4c7@kaz.friendlypetsclub.uk:443?security=reality&encryption=none&pbk=VlD2T4Q29Y3ryW9Ky2vs8QtciKr5IitfejmgWzYJsAA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=5dCC84Ad#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
+vless://c80bbc09-837d-495f-bebc-3e8ac5dede41@82.115.43.39:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
