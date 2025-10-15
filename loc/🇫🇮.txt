@@ -2,9 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0b2d0WU5EZlBWeno%3D@185.242.247.149:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0b2d0WU5EZlBWeno=@185.242.247.149:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng%3D@65.21.243.22:31348#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=grpc&serviceName=Smxhabwh&sni=offged.sahandconfig.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
