@@ -4,4 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
-vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
