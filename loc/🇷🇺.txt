@@ -1,9 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=175d#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@ru01-blh01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=31#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@45.144.30.36:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://46788ea0-fdf1-4694-90a0-dec94fc471c3@45.144.30.60:443?security=reality&sni=hls-svod.itunes.apple.com&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

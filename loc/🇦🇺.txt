@@ -2,16 +2,17 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@3.107.184.53:80#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.107.178.116:80#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.107.184.53:80#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE%3D@3.107.184.53:80#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vmess://eyJhZGQiOiJzeTQuNjIwNzIwLnh5eiIsImFpZCI6IjAiLCJob3N0Ijoic3k0LjYyMDcyMC54eXoiLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJoYW1lZHA3MTo68J+HpvCfh7oiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-vless://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6bwn4e6IiwiYWRkIjoic3k0LjYyMDcyMC54eXoiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InN5NC42MjA3MjAueHl6IiwidGxzIjoidGxzIn0
+vmess://eyJhZGQiOiJzeTQuNjIwNzIwLnh5eiIsImFpZCI6MCwiaG9zdCI6InN5NC42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6ImhhbWVkcDcxOjrwn4em8J+HuiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
 vless://e3627db2-8850-498f-bb5f-77bb1ba454c5@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=UpSEt-ApplIcAtION.oNEEAt.co&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://ee97d041-fdba-4509-b3c2-5a31714c23de@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=StRaNGe-InjUrY.oNEEat.cO&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://a6d73ecd-9b8a-49d8-ba8a-bbbf5849b242@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dIGNified-drIVER.oNEEat.cO&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://b6f6e247-41a2-411c-afcf-a87e09878be9@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=caLM-fILe.oNeeat.cO&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://422af888-aaec-469e-8e4e-59a9429e7dd0@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MElODIc-eDuCAtiOn.ONEeaT.co&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://4a4c08c2-0e58-4781-8729-f6873a7b1996@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=black-orDeR.ONEeAt.CO&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://422af888-aaec-469e-8e4e-59a9429e7dd0@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=MElODIc-eDuCAtiOn.ONEeaT.co&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://b67a8bdc-5d77-4ff9-b2ed-b9259617be4c@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JOYful-EMPLoYEE.OneEAT.cO&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
-vless://ba44f3f7-29cb-4c28-a2b7-2d4465cc6fdf@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gLORioUs-BehaviOR.ONEeaT.co&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 vless://9abc0f62-f53a-485c-aa97-97911697e4b1@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=advENtUrOUS-aBilitY.ONEEAT.Co&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://ba44f3f7-29cb-4c28-a2b7-2d4465cc6fdf@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=gLORioUs-BehaviOR.ONEeaT.co&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+vless://ee97d041-fdba-4509-b3c2-5a31714c23de@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=StRaNGe-InjUrY.oNEEat.cO&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
