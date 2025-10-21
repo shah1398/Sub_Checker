@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@kifpool.me:443?security=tls&sni=nkang2replace.airlineshoma.com&allowInsecure=0&fp=chrome&type=ws&path=/&host=nkang2replace.airlineshoma.com&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?path=%2F&security=tls&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&sni=frAgteSt.JaHANGiRKh.eU.orG#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?encryption=none&security=tls&sni=frAgteSt.JaHANGiRKh.eU.orG&fp=chrome&type=ws&path=%2F&host=frAgteSt.JaHANGiRKh.eU.orG#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA

@@ -5,5 +5,6 @@
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@183.101.243.99:12576?path=%2FTelegram%40freecodes%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@218.146.200.8:50001?path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg==@115.161.136.145:10099#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@59.22.88.168:50001?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.184.133.123:50001?allowInsecure=0&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=/Telegram🇨🇳 @WangCai2 /?ed=2560fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@211.219.241.28:31337?&security=tls&sni=gaosir.unfeeling.sbs&type=ws&headerType=none&host=gaosir.unfeeling.sbs&path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni=ako.pagate.top&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7

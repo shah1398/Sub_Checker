@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://f629aa8e-86cb-4cec-94de-8cb1b549798c@95.134.130.176:80?path=%2F&security=none&encryption=none&host=fast.com&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
