@@ -1,0 +1,12 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=&fp=chrome&type=grpc&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=&fp=chrome&type=grpc&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&encryption=none&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tr.eu-ffast.com&sid=50#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
