@@ -2,6 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RzMyYmtqajNjZWhYdDJCOGVpamJW@81.90.31.219:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://3a4524bb-5d17-4c09-b523-6ab1e1a41d81@82.97.241.50:8443?security=reality&encryption=none&pbk=blSlAMMTv5UdIZiQd6VtBlS7kfZJ9xpw9H95Ouohbxs&headerType=none&fp=chrome&spx=%2Fdefault&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=4bb9dbdad476124c#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://205aac3a-abd8-411d-8c46-59fcc412eff4@121.127.37.173:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://3a4524bb-5d17-4c09-b523-6ab1e1a41d81@82.97.241.50:8443?security=reality&encryption=none&pbk=blSlAMMTv5UdIZiQd6VtBlS7kfZJ9xpw9H95Ouohbxs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=4bb9dbdad476124c#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?security=reality&encryption=none&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d0a3f84aabd21574#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://5f1a352c-36f1-43c7-9362-938915c7957c@a.ru.maviks.ru:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=maviks.ru&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
