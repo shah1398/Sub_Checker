@@ -2,15 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@43.128.95.110:40029?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2clY2NHI5Z0wyUmxHOTZrZDlZT2tN@172.237.82.96:6579#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprVG51WV9VMjF6VThGUGtDR1hkZDhB@68.183.236.145:1080#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprcWtVOE9pVXlnRkFtZjRMaDkySkFN@172.237.82.133:41447#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMzI0MQ%3D%3D@sgmob222.asuscomm.com:8899#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJhZGQiOiIxNS4yMzUuMTYzLjE1NyIsImFpZCI6IjAiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijg0NDgxYTIzLWViMjQtNGZkOS1hMDZiLWM1NGVhZjZiOTA1YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJoYW1lZHA3MTo68J+HuPCfh6wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6InRjcCIsInYiOiIyIn0
 vmess://eyJhZGQiOiIxNS4yMzUuMTY3LjEwNCIsImFpZCI6IjAiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiYzBhMjkwLTg4MzYtNDYzYS1hMmY5LWQ0OWI3NTc5NzcxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTUwIiwicHMiOiJoYW1lZHA3MTo68J+HuPCfh6wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6InRjcCIsInYiOiIyIn0
+vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://a2088892-07c5-4c54-8a10-4a4b6ebefab6@waifu.kurumi.biz.id:80/?type=ws&encryption=none&flow=&host=discord.com&path=%2Fvless#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://310f218f-150a-4813-9a6d-e60245e7646d@84.247.149.142:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=Xy7JFC_lOgqFQ0EMc8tAgll1uPYVswdHJAiYB9nwgjg&sid=d490a0c05121c115#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
