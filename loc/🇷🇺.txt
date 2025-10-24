@@ -2,10 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://3a4524bb-5d17-4c09-b523-6ab1e1a41d81@82.97.241.50:8443?security=reality&encryption=none&pbk=blSlAMMTv5UdIZiQd6VtBlS7kfZJ9xpw9H95Ouohbxs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=4bb9dbdad476124c#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?security=reality&encryption=none&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d0a3f84aabd21574#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://3a4524bb-5d17-4c09-b523-6ab1e1a41d81@82.97.241.50:8443?security=reality&encryption=none&pbk=blSlAMMTv5UdIZiQd6VtBlS7kfZJ9xpw9H95Ouohbxs&headerType=none&fp=chrome&spx=%2Fdefault&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=4bb9dbdad476124c#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&sid=d70393f0ad1c7552&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&flow=&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
