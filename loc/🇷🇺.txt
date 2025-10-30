@@ -4,3 +4,4 @@
 
 vless://f5d4ff78-a4b8-479d-acef-e8187734e89e@45.139.27.86:443?security=reality&encryption=none&pbk=QL4Ls4ekZBizQ1KW0Eyvdp0D4TP0oGARgWdF2qx-nX8&headerType=none&fp=firefox&spx=%2Fchannel_sinavm_%40sinavm&type=tcp&flow=xtls-rprx-vision&sni=russia26.clearorbitllc.com&sid=d119#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&flow=&sni=ya.ru&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://f5d4ff78-a4b8-479d-acef-e8187734e89e@45.139.27.86:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=russia26.clearorbitllc.com&pbk=QL4Ls4ekZBizQ1KW0Eyvdp0D4TP0oGARgWdF2qx-nX8&sid=d119&spx=/channel_sinavm_@sinavm#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA

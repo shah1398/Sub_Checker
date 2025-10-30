@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://02334dc7-5535-4909-a972-07d1d937ea3f@213.171.8.2:8444?security=reality&encryption=none&pbk=o2jxNDCcRkxW9uur_7MAcnr2umdiRUBfNEKu1bONcnk&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
-vless://02334dc7-5535-4909-a972-07d1d937ea3f@213.171.8.2:8444?security=reality&encryption=none&pbk=o2jxNDCcRkxW9uur_7MAcnr2umdiRUBfNEKu1bONcnk&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
