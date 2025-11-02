@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vmess://eyJhZGQiOiI0NS42Ni4xMS41MCIsImFpZCI6MCwiZnAiOiJjaHJvbWUiLCJob3N0IjoiaW1hZmFrZS5sb2NrZXIiLCJpZCI6ImM1MGY5NDgwLTJlMWQtNDBkYi05NDU4LTYzMGU3OTYzNjY2MyIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0Ijo0NDc0OSwicHMiOiJoYW1lZHA3MTo68J+HtfCfh7EiLCJzbmkiOiJpbWFmYWtlLmxvY2tlciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6Mn0
 vless://ddab5550-3938-4aba-943c-f23a08d07dc5@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://ddab5550-3938-4aba-943c-f23a08d07dc5@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pArIsA.DpDnS.OrG&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://ddab5550-3938-4aba-943c-f23a08d07dc5@alhilal.com:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=tls&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://e1dcc2f8-0ce5-42d5-964b-c9deea0a066e@193.200.17.251:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=iaDh3yELcXvgVQxS2-ULCBi339vROALja6c7ScIqom0&sid=#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://ddab5550-3938-4aba-943c-f23a08d07dc5@alhilal.com:443?path=%2Fws&security=tls&encryption=none&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&fp=chrome&type=ws&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://5b5f72ba-b217-469d-a805-9a34021911eb@pl.nnvpn.io:443?security=reality&encryption=none&pbk=GzBxNfzlhGMOR8qYpXMAHJBNL03fcbEPVN2MXc6iC2g&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f3a8ef9e63946aaa#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

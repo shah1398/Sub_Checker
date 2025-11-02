@@ -3,13 +3,10 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206YmQwODA4OTgtYjQxYS00OGFlLWIxNjQtMWJhYWU0MTI0NjI3@15.235.186.140:8443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://bca467b8c15211d189008a93c7519d3b@160.16.107.37:5048?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://bca467b8c15211d189008a93c7519d3b@160.16.107.37:5048?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiI0NS43Ni4xODEuMjQ2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI1MjI2MzkwMS1iM2NmLTRkN2QtYjRmZC1hMTJmZTE3OGVmMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6MTIzNDUsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
 vmess://eyJhZGQiOiI4Mi4xOTcuNjkuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVhODkzODZhLTgyN2ItNGY1NC04Nzc4LTJmMWI1MTIyYzZlZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzk2NzQiLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
