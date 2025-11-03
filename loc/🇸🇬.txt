@@ -5,6 +5,7 @@
 ss://YWVzLTI1Ni1nY206YmQwODA4OTgtYjQxYS00OGFlLWIxNjQtMWJhYWU0MTI0NjI3@15.235.186.140:8443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://9c187115-6599-4138-bcb4-268add81a63a@partner.zoom.us:80?path=/&security=none&encryption=none&host=41.sahanwickramasinghe.shop&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://fe7d9497-c04b-4462-900d-333abc79a90f@46.250.237.164:55076?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://c4ccf00e-72c6-4fd9-b7ce-f625a835539f@109.123.236.161:42692?security=none&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
