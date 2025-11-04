@@ -4,5 +4,5 @@
 
 trojan://4f673b32-3360-4bfa-b031-54676e87d1bd@84.235.245.18:34501?path=%2FFree-VPN-CF-Geo-Project%2F84.235.245.18%3D34501&security=tls&host=joss.krekkrek.web.id&fp=randomized&type=ws&sni=joss.krekkrek.web.id#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJoYW1lZHA3MTo68J+HpvCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-vless://b32ca1a3-968a-40e6-ac5c-944d5605f665@84.235.245.18:34501?path=%2FFree-VPN-CF-Geo-Project%2F84.235.245.18%3D34501&security=tls&encryption=none&host=joss.krekkrek.web.id&fp=randomized&type=ws&sni=joss.krekkrek.web.id#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&fp=chrome#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
+vless://b32ca1a3-968a-40e6-ac5c-944d5605f665@84.235.245.18:34501?path=%2FFree-VPN-CF-Geo-Project%2F84.235.245.18%3D34501&security=tls&encryption=none&host=joss.krekkrek.web.id&fp=randomized&type=ws&sni=joss.krekkrek.web.id#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
