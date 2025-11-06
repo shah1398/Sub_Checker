@@ -1,0 +1,17 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.244:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?encryption=none&security=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.233:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=&encryption=none&authority=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?security=&fp=chrome&type=grpc&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&authority=JoB_T&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.239:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.216:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
