@@ -3,11 +3,10 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ%3D%3D@94.131.104.147:443#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6MCwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjkxMzgyMDkyLTIzMzAtNDU1Yi04YTFjLTljMTI5Y2ZlNjYxYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4NDQzLCJwcyI6ImhhbWVkcDcxOjrwn4ex8J+HuyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
-vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MTM4MjA5Mi0yMzMwLTQ1NWItOGExYy05YzEyOWNmZTY2MWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImhhbWVkcDcxOjrwn4ex8J+HuyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
+vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6MCwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjkxMzgyMDkyLTIzMzAtNDU1Yi04YTFjLTljMTI5Y2ZlNjYxYSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4NDQzLCJwcyI6ImhhbWVkcDcxOjrwn4ex8J+HuyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0
+vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MTM4MjA5Mi0yMzMwLTQ1NWItOGExYy05YzEyOWNmZTY2MWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImhhbWVkcDcxOjrwn4ex8J+HuyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
 vless://e0042666-497b-4fde-bf4a-c5281df24d15@45.130.214.192:20992/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?security=none&fp=chrome&type=ws&path=/&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?security=none&allowInsecure=1&fp=chrome&type=ws&path=/&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&encryption=none&pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4360e536#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://34ff1d05-2021-40e7-984c-8413bba0c011@31.57.28.172:38107?encryption=none&type=ws&path=%2F%40armanstore2--Telegram-----%40armanstore2--Telegram-----%40armanstore2--Telegram-----%40armanstore2--Telegram-----%40armanstore2--Telegram-----%40armanstore2--Telegram-----%40armanstore2--Telegram-----&security=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
