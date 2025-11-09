@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@mww1ek4ipewzn.toshibl2hvg.lat:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=0ee11e#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?security=reality&encryption=none&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru&sid=9d36b8589fa524fd#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=%2Fgetupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@mww1ek4ipewzn.toshibl2hvg.lat:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=0ee11e#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&type=ws&path=%2Fgetupdates&security=tls&sni=fl-3-direct.djarbnet.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
