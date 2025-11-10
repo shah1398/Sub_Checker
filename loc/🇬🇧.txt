@@ -2,11 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptaXhxUjlhWmt0MmVBWmpQa2xnTzVD@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWGpNUUllbTB1U2hHdlJ6T3BmeWli@89.185.84.185:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxN1g5ejR6REJRYUxqdFhIcU9xWjdZ@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXaFVZbjB5WjZiTHJJTHh6SXRmeFNJ@89.185.84.185:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F51.89.128.93%3D44004&security=tls&fp=randomized&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?path=%2FFree-VPN-CF-Geo-Project%2F51.89.128.93%3D44004&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192994984.budapest-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?encryption=none&type=grpc&serviceName=7e41eb32ea906cebaf077110&security=reality&fp=safari&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&sni=www.microsoft.com&sid=7daa515f56d7db89#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
