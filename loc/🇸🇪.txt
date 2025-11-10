@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NXFKNHdqSGhQYlZOeFdLVDFtSm5F@46.246.98.39:55818#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://db666837-aa7c-4cc9-9070-7cd3564225a0@abaddon.fonixapp.org:58604?security=reality&encryption=none&pbk=ZR7zKH8el4lbbty4_54z4XWV8BRvTup86v977iM_DUw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=study.com&sid=12#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@162.159.130.67:443?encryption=none&type=ws&host=nkang2replace.airlineshoma.com&path=%2F&security=tls&sni=nkang2replace.airlineshoma.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://af9fdedf-dca8-405d-9aa4-98ebcc99e84b@ipe3.alighan.ir:8443?path=%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&host=s.alighan.ir&fp=chrome&type=ws&sni=ipe4.alighan.ir#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
