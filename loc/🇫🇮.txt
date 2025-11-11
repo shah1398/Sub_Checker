@@ -2,22 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=%2FJ5aKLOY1R7ONXYCM&security=tls&encryption=none&host=private.besttotaldns.com&type=ws&sni=private.besttotaldns.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://c495405a-41d7-429e-b999-94136197b211@104.21.7.162:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&host=dashboard.app-browser.org&type=ws&sni=dashboard.app-browser.org#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://38ced162-2eb3-4aee-998f-747961f02c01@helsinki.fonixapp.org:23747?security=reality&encryption=none&pbk=u7gBBaokHefxp8JS3G_Nu1X5y6Rh5SsRBrVC1L-4ySY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=b7#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?security=&fp=chrome&type=grpc&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=c2fa#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed&security=none&encryption=none&host=157.180.123.25&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://76ed5507-80e9-4549-877c-f74c174c26b4@95.214.9.72:443?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F95.214.9.72%3D443&security=tls&fp=chrome&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://38ced162-2eb3-4aee-998f-747961f02c01@helsinki.fonixapp.org:23747?security=reality&encryption=none&pbk=u7gBBaokHefxp8JS3G_Nu1X5y6Rh5SsRBrVC1L-4ySY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lowes.com&sid=b7#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://74a4f351-1f64-4a24-98ac-a1a86dba7f4c@104.21.5.65:8443?path=%2FJ5aKLOY1R9ONWYCM&security=tls&encryption=none&host=dedi.besttotaldns.com&type=ws&sni=dedi.besttotaldns.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@171.22.114.244:8880?mode=gun&security=none&encryption=none&authority=Join---_T------_T&type=grpc#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=/getupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://638c1918-f6f0-4ecc-85e6-a3ac50ed9c02@157.180.123.25:443?path=%2Flinkws%3Fed%3D2560&security=&encryption=none&host=157.180.123.25&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://74a4f351-1f64-4a24-98ac-a1a86dba7f4c@104.21.5.65:8443/?type=ws&encryption=none&flow=&host=dedi.besttotaldns.com&path=%2FJ5aKLOY1R9ONWYCM&ed=2541&eh=Sec-WebSocket-Protocol&security=tls&sni=dedi.besttotaldns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?path=%2FJ5aKLOY1R7ONXYCM&security=tls&encryption=none&host=private.besttotaldns.com&type=ws&sni=private.besttotaldns.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443/?type=ws&encryption=none&flow=&host=private.besttotaldns.com&path=%2FJ5aKLOY1R7ONXYCM&ed=2747&eh=Sec-WebSocket-Protocol&security=tls&sni=private.besttotaldns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?encryption=none&security=tls&sni=fl-3-direct.djarbnet.ru&type=ws&path=%2Fgetupdates#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@r63bpfarjh1.dunnlspdf.lat:2052?encryption=none&type=grpc&security=reality&fp=chrome&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&sni=web.eitaa.com&sid=0ee11e#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fc363de7-5d11-42e0-b9c0-79d59274882a@fi.podpiska.vip:443?security=reality&encryption=none&pbk=L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI&headerType=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uspehudacha.com&sid=056d3a8e5b410ee9#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://cc67ca7f-064e-4117-ac31-a66d5728a11c@fl-3-direct.djarbnet.ru:443?path=/getupdates&security=tls&encryption=none&type=ws&sni=fl-3-direct.djarbnet.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://e0976e35-a651-4f34-b5b1-c9ac9f75cb74@172.67.133.33:8443?encryption=none&type=ws&host=private.besttotaldns.com&path=%2FJ5aKLOY1R7ONXYCM&security=tls&sni=private.besttotaldns.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@r63bpfarjh1.dunnlspdf.lat:2052?encryption=none&type=grpc&security=reality&fp=chrome&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&sni=web.eitaa.com&sid=0ee11e#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://39904219-c070-4a8f-a820-07406ff07538@37.27.249.161:2083?encryption=none&type=grpc&serviceName=Tel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAYTel%3A%40VPN_KING_V2RAY&security=reality&fp=chrome&pbk=I5CKiks47aBxqcqrWOzHV-ejzg_6qTnjJsZMNBZ7UCY&sni=tgju.org&sid=50d6&spx=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
