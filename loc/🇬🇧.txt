@@ -4,8 +4,10 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0QmdVWkpaSUJhVFVMVXM1aHVsYjl6@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?path=%2FFree-VPN-CF-Geo-Project%2F51.89.128.93%3D44004&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192994984.budapest-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwiYWRkIjoiYjYyYTk0OGMtZmFhMi00ZThhLWJmOGEtM2ZmMzEyMWM4NzVhLmFzb3VsLWF2YS50b3AiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXp1bWFzZS5yZW4iLCJob3N0IjoiYjYyYTk0OGMtZmFhMi00ZThhLWJmOGEtM2ZmMzEyMWM4NzVhLmFzb3VsLWF2YS50b3AiLCJ0bHMiOiJ0bHMifQ
 vless://06c4d024-6079-430e-bbc4-53a340ac933e@167.172.51.202:2096?mode=gun&security=reality&encryption=none&pbk=29iCBehXD9OCK1B5fDd7hwiOZEtm7BXiwzZpwggESzo&fp=chrome&spx=%2F&type=grpc&sni=zula.ir#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?encryption=none&type=grpc&serviceName=7e41eb32ea906cebaf077110&security=reality&fp=safari&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&sni=www.microsoft.com&sid=7daa515f56d7db89#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638974363192994984.budapest-blkaft-aaav.info:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://06c4d024-6079-430e-bbc4-53a340ac933e@167.172.51.202:2096?encryption=none&type=grpc&security=reality&fp=chrome&pbk=29iCBehXD9OCK1B5fDd7hwiOZEtm7BXiwzZpwggESzo&sni=zula.ir&spx=%2F#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?encryption=none&type=grpc&serviceName=7e41eb32ea906cebaf077110&security=reality&fp=safari&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&sni=www.microsoft.com&sid=7daa515f56d7db89#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
