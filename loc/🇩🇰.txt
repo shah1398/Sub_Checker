@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+trojan://63b8ce6d-9a30-4122-a00f-fd47f020dc27@89.28.236.243:443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/89.28.236.243=443&host=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%B0
