@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://247f264b-54dc-4e18-b55f-4769a4a80980@silverzebra.fonixapp.org:28392?security=reality&encryption=none&pbk=Pq_a-rDvNROjMaNtA7v2tSSsfPR8KspHwKfu2tEv_F8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=cf34f84f37#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B9
