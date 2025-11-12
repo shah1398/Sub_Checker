@@ -3,8 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&host=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 trojan://8221436f-1b7e-4517-9698-0da2a53443e3@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-trojan://8221436f-1b7e-4517-9698-0da2a53443e3@45.159.251.8:81?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&fp=randomized&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&fp=chrome&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+trojan://8221436f-1b7e-4517-9698-0da2a53443e3@45.159.251.8:81?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&fp=randomized&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6rwn4e4IiwiYWRkIjoiMjA4Ljc2LjIyMy4yMTgiLCJwb3J0IjoiMjcwOTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTA1OTZiYTYtNzJhMy00MzY2LTg5OTItNzcwODhkYTY1YmQ4IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
