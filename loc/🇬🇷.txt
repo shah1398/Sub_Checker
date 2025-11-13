@@ -5,4 +5,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
 vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?security=reality&encryption=none&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&headerType=&fp=chrome&type=tcp&sni=yahoo.com&sid=958639bf55e679#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
 vless://b645a5cc-006f-4f93-8cdc-3e5415262772@46.20.111.170:20006?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://b645a5cc-006f-4f93-8cdc-3e5415262772@46.20.111.170:20006?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
