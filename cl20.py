@@ -10,8 +10,8 @@ import platform
 import threading
 import re
 
-TEXT_NORMAL = "normal2.json"
-TEXT_FINAL = "final2.json"
+TEXT_NORMAL = "normal20.json"
+TEXT_FINAL = "final20.json"
 
 LINKS_PATH = [
     "https://raw.githubusercontent.com/tepo18/sab-vip10/main/final.json",
@@ -128,7 +128,7 @@ def update_all():
     final_lines = process_ping(normal_lines)
     print(f"[INFO] Saved {len(final_lines)} configs to {TEXT_FINAL}")
     save_files(normal_lines, final_lines)
-    print("[✅] cl10.py update complete.")
+    print("[✅] cl20.py update complete.")
 
 if __name__ == "__main__":
     update_all()
