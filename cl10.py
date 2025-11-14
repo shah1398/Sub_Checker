@@ -10,8 +10,8 @@ import platform
 import threading
 import re
 
-TEXT_NORMAL = "normal90.json"
-TEXT_FINAL = "final90.json"
+TEXT_NORMAL = "normal2.json"
+TEXT_FINAL = "final2.json"
 
 LINKS_PATH = [
     "https://raw.githubusercontent.com/tepo18/sab-vip10/main/final.json",
