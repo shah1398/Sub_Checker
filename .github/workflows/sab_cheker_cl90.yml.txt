@@ -1,15 +1,15 @@
-name: Sub Checker CL10
+name: Sub Checker CL20
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: " */2 * * * *"   # اجرای cl90.py هر ۱ ساعت
+    - cron: " */2 * * * *"   # اجرای cl20.py هر ۱ ساعت
 
 permissions:
   contents: write
 
 jobs:
-  cl10-job:
+  cl20-job:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -19,15 +19,15 @@ jobs:
           python-version: 3.11
       - run: pip install requests psutil retrying PyYaml || echo "skip install"
       - run: |
-          rm -f final2.json normal2.json
-          timeout 600s python cl10.py || echo "❌ cl10.py failed or skipped"
+          rm -f final20.json normal20.json
+          timeout 600s python cl20.py || echo "❌ cl20.py failed or skipped"
       - run: |
-          if [[ -s final2.json || -s normal2.json ]]; then
+          if [[ -s final20.json || -s normal20.json ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add final2.json normal2.json
+            git add final20.json normal20.json
             git commit -m "auto update from cl10.py [skip ci]" || echo "No changes"
             git push || echo "skip push"
           else
-            echo "⚠️ final2.json یا normal2.json خالی یا موجود نیست، commit نشد"
+            echo "⚠️ final20.json یا normal20.json خالی یا موجود نیست، commit نشد"
           fi
