@@ -12,18 +12,18 @@ import socket
 from typing import List
 
 # ===================== تنظیمات =====================
-TEXT_PATH = "normal.txt"
-FIN_PATH = "final.txt"
+TEXT_PATH = "normal2.txt"
+FIN_PATH = "final2.txt"
 
 LINK_PATH = [
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/ss.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/vless.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/tepo10.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/tepo20.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/tepo30.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/tepo40.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/tepo50.txt",
-    "https://raw.githubusercontent.com/tepo18/tepo90/main/trojan.txt"
+    "https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Splitted-By-Protocol/hysteria2.txt"
+    "https://raw.githubusercontent.com/parvinxs/Fssociety/refs/heads/main/Fssociety.sub",
+    "https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/main/Sub.mahsa.xsparvin",
+    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/hy2.html",
+    "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/python/hy2",
+    "https://raw.githubusercontent.com/tepo80/Trojan/main/hp.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/hy2.txt"
+
 ]
 
 FILE_HEADER_TEXT = "//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE="
