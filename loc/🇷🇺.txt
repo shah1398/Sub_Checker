@@ -2,11 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIbVpmZEduZjJMQmRraWRpdks0VjM5@81.90.31.219:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?allowInsecure=0&sni=joss.dus.biz.id&type=ws&host=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/213.159.208.88=2053#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F213.159.208.88%3D2053&security=tls&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+trojan://535b9dbb-33f9-46af-a4a9-35228f9ae124@5.188.78.218:2053?path=%2FFree-VPN-CF-Geo-Project%2F5.188.78.218%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@youtube.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?path=%2Fx%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@youtube.jykvpn.com:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&host=telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----telegram----v_ngfree----&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://56718b04-3fe6-4ef3-a61f-cd9b3b5f64f1@5.129.252.60:443?note=---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---Telegram---NetifyVPN---&security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=c2a0b2d60a7fc300#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
