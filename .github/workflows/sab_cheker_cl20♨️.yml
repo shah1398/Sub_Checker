@@ -26,7 +26,7 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add final20.json normal20.json
-            git commit -m "auto update from cl10.py [skip ci]" || echo "No changes"
+            git commit -m "auto update from cl20.py [skip ci]" || echo "No changes"
             git push || echo "skip push"
           else
             echo "⚠️ final20.json یا normal20.json خالی یا موجود نیست، commit نشد"
