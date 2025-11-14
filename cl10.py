@@ -128,7 +128,7 @@ def update_all():
     final_lines = process_ping(normal_lines)
     print(f"[INFO] Saved {len(final_lines)} configs to {TEXT_FINAL}")
     save_files(normal_lines, final_lines)
-    print("[✅] cl90.py update complete.")
+    print("[✅] cl10.py update complete.")
 
 if __name__ == "__main__":
     update_all()
