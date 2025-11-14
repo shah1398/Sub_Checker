@@ -14,18 +14,20 @@ TEXT_NORMAL = "normal20.json"
 TEXT_FINAL = "final20.json"
 
 LINKS_PATH = [
-    "https://raw.githubusercontent.com/tepo18/sab-vip10/main/final.json",
-    "https://raw.githubusercontent.com/tepo18/sab-vip10/main/final2.json",
-    "https://raw.githubusercontent.com/tepo18/sab-vip10/main/final4.json",
-    "https://raw.githubusercontent.com/tepo18/sab-vip10/main/final5.json",
-    "https://raw.githubusercontent.com/tepo18/sab-vip10/main/final6.json",
-    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/vip.json",
-    "https://raw.githubusercontent.com/tepo80/sab-vip90/main/vip2.json",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/final.json",
-    "https://raw.githubusercontent.com/tepo80/tepo18/main/final2.json",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/final.json",
-    "https://raw.githubusercontent.com/tepo80/tepo80/main/final2.json",
-    "https://raw.githubusercontent.com/tepo98/kv98/main/final.json"
+"https://raw.githubusercontent.com/tepo18/sab-vip10/main/final2.json",
+"https://raw.githubusercontent.com/tepo18/sab-vip10/main/final.json",
+"https://raw.githubusercontent.com/tepo80/tepo18/main/final.json",
+"https://raw.githubusercontent.com/tepo80/tepo80/main/final.json",
+"https://raw.githubusercontent.com/tepo80/tepo80/main/final2.json",
+"https://raw.githubusercontent.com/tepo80/sab-vip98/main/final.json",
+"https://raw.githubusercontent.com/tepo80/sab-vip98/main/final2.json",
+"https://raw.githubusercontent.com/tepo80/tepo18/main/final2.json",
+"https://raw.githubusercontent.com/tepo18/reza-shah1320/main/final.json",
+"https://raw.githubusercontent.com/tepo18/reza-shah1320/main/final2.json",
+"https://raw.githubusercontent.com/tepo18/tepo90/main/final.json",
+"https://raw.githubusercontent.com/tepo18/tepo90/main/final2.json",
+"https://raw.githubusercontent.com/tepo18/online-sshmax98/main/final.json",
+"https://raw.githubusercontent.com/tepo18/online-sshmax98/main/final2.json"
 ]
 
 MAX_THREADS = 20
