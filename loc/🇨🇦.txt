@@ -2,8 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiNThmZTE1NDItNTI5MC00MGFkLTgxNWEtNzc3MDdhODFhZmU1IiwibmV0Ijoid3MiLCJwYXRoIjoiL0lPZWJoTE1obDFDVGJGSGJMOTVteWZSWDIiLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkcDcxOjrwn4eo8J+HpiIsInNjeSI6ImFlcy0xMjgtZ2NtIiwidGxzIjoibm9uZSIsInYiOiIyIn0
+vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsInBvcnQiOiI4MCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJnb29nbGUuY29tIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4emIn0
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.149.104:443?path=%2Fassets%3Fed%3D2560&security=tls&encryption=none&host=HarmonY-448.pages.DEV&fp=chrome&type=ws&sni=HarmonY-448.pages.DEV#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://ac51ad36-5052-460a-842a-e13455d30cb8@172.67.177.28:443/?type=ws&encryption=none&host=rr-ff.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=RR-FF.pages.DEV&alpn=http%2F1.1&fp=safari#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://ac51ad36-5052-460a-842a-e13455d30cb8@172.64.89.118:443/?type=ws&encryption=none&host=rr-ff.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=RR-FF.pages.DEV&alpn=h3&fp=chrome#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@172.67.141.191:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=http%2F1.1&fp=edge#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://adeaebbe-5719-4c28-9b11-5df0d3331c88@172.67.193.170:443/?type=ws&encryption=none&host=freedom32.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=Freedom32.Pages.DEV&alpn=h3&fp=safari#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@172.67.255.148:443/?type=ws&encryption=none&host=harmony-448.pages.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=HarmonY-448.pages.DEV&alpn=http%2F1.1&fp=safari#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://2e6037b9-87b2-4442-91f9-71c41a586a55@51.79.103.117:443?encryption=none&type=ws&host=51.79.103.117&path=%2Flinkws%3Fed%3D2560&security=none#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
