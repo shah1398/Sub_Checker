@@ -4,5 +4,4 @@
 
 trojan://f311aff6-6cd2-4d62-8765-25d879b2516a@83.217.9.110:24443?path=%2FFree-VPN-CF-Geo-Project%2F83.217.9.110%3D24443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 trojan://f311aff6-6cd2-4d62-8765-25d879b2516a@83.217.9.110:24443?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F83.217.9.110%3D24443&security=tls&fp=randomized&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://b4f3041b-e939-4c1a-8f1d-70e8369b25eb@45.81.113.60:4656?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7

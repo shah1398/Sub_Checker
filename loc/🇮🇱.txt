@@ -3,4 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 trojan://620f1a94-60a5-4a10-b1ec-56e1f0ef55fa@94.131.114.50:81?path=%2FFree-VPN-CF-Geo-Project%2F94.131.114.50%3D81&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
+trojan://620f1a94-60a5-4a10-b1ec-56e1f0ef55fa@94.131.114.50:81?security=tls&type=ws&sni=joss.gpj.web.id&path=/Free-VPN-CF-Geo-Project/94.131.114.50=81&host=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
 trojan://620f1a94-60a5-4a10-b1ec-56e1f0ef55fa@94.131.114.50:81?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F94.131.114.50%3D81&security=tls&fp=randomized&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
