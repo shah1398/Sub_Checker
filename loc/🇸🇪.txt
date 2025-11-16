@@ -4,11 +4,7 @@
 
 trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?path=%2FFree-VPN-CF-Geo-Project%2F95.182.120.208%3D2053&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://3b38715b-f08a-46dd-9904-7531ca4bb6e8@95.182.120.208:2053?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F95.182.120.208%3D2053&security=tls&fp=randomized&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vmess://eyJhZGQiOiI3MC4zNC4yMDcuMTA5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjJiOTk4NzY5LTE4MzUtNGFhYi04YTllLTg1MTYzYzQ4OWQ3YiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjAyMTciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4eqIn0
-vless://68aa2bd7-db2a-4e29-b3c3-ca751e4c3c51@176.97.77.194:443?encryption=none&type=grpc&serviceName=89e2c9f6f66fc9dd7e4a2e8d&security=reality&fp=safari&pbk=NvVKlkEzhjalaV82PCtugmgZGemOGAqHg4i7J2F93g8&sni=www.microsoft.com&sid=4c6b4ebea75189ca#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@172.64.154.211:443?encryption=none&type=ws&host=nkAnG2rEpLACE.airlineSHoma.Com&path=%2F%3Fed%3D2560&security=tls&fp=chrome&sni=nkAnG2rEpLACE.airlineSHoma.Com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://b754b53a-aaf5-475c-eeed-46806c2aa63f@162.159.130.67:443?encryption=none&type=ws&host=nkang2replace.airlineshoma.com&path=%2F&security=tls&sni=nkang2replace.airlineshoma.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vmess://eyJ2IjoiMiIsImFkZCI6IjcwLjM0LjIwNy4xMDkiLCJwb3J0IjoiMjAyMTciLCJpZCI6IjJiOTk4NzY5LTE4MzUtNGFhYi04YTllLTg1MTYzYzQ4OWQ3YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4eqIn0
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://209eceac-fa95-4c2b-9921-e9098c5b7f99@70.34.207.109:12116?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://b6cbb142-54a5-483d-a673-c45030af1075@70.34.207.109:21064?type=tcp&encryption=none&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://b6cbb142-54a5-483d-a673-c45030af1075@70.34.207.109:21064?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://68aa2bd7-db2a-4e29-b3c3-ca751e4c3c51@176.97.77.194:443?encryption=none&type=grpc&serviceName=89e2c9f6f66fc9dd7e4a2e8d&security=reality&fp=safari&pbk=NvVKlkEzhjalaV82PCtugmgZGemOGAqHg4i7J2F93g8&sni=www.microsoft.com&sid=4c6b4ebea75189ca#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?encryption=none&type=ws&host=frAgteSt.JaHANGiRKh.eU.orG&path=%2F&security=tls&fp=chrome&sni=frAgteSt.JaHANGiRKh.eU.orG#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
