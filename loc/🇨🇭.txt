@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sid=91fbf6164cb2bc53&type=grpc&serviceName=dcfc23920fc8a07991dda30d#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?encryption=none&type=grpc&serviceName=dcfc23920fc8a07991dda30d&security=reality&fp=safari&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sni=www.microsoft.com&sid=91fbf6164cb2bc53#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
