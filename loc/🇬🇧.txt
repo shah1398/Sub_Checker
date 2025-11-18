@@ -2,25 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnSm5vR3VYWTlOd0prNXJEWjdhUnhn@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvdGtuYnR4ekhYU0lINFNuU1VNUElL@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnSm5vR3VYWTlOd0prNXJEWjdhUnhn@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6MCwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6ImEyNWNiZjExLTI5MDgtNGExYi1hM2E4LTlhNTcxNzc3ZGNhMyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6ciLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=638989641566694428.tucson-amshx.info&type=ws&sni=638989641566694428.tucson-amshx.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=638987378208894304.sentra-amshr.info&fp=chrome&type=ws&sni=638987378208894304.sentra-amshr.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=638988506136311592.corolla-amshw.info&type=ws&host=638988506136311592.corolla-amshw.info&path=/cahttingws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=638989280617257851.civic-amshx.info&type=ws&host=638989280617257851.civic-amshx.info&path=/cahttingws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638987378208894304.sentra-amshr.info&path=%2Fcahttingws&security=tls&sni=638987378208894304.sentra-amshr.info&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?mode=gun&security=reality&encryption=none&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&fp=safari&type=grpc&serviceName=7e41eb32ea906cebaf077110&sni=www.microsoft.com&sid=7daa515f56d7db89#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?path=%2FYUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&sid=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?mode=gun&security=reality&encryption=none&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&fp=safari&type=grpc&serviceName=7e41eb32ea906cebaf077110&sni=www.microsoft.com&sid=7daa515f56d7db89#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&type=ws&sni=638987972960682357.prius-amsht.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&type=ws&sni=638989641550992554.sonata-amshx.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://db4f4cab-46ac-404b-a0a2-6fffdfdd676d@ccccccccccc.zabc.net:2096?&security=tls&fp=chrome&alpn=h3&sni=ccccccccccc.zabc.net&type=ws&headerType=none&host=ccccccccccc.zabc.net&path=%2Fapi1#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://1848ccc2-09f0-4367-aa90-8b174de73614@51.68.198.51:8080?path=/YUYETrenyklxeoyemeWFCrneerV&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://d9a019a1-f784-4d8e-b660-23679009d88d@ls-api.hyun.cc:8443?&security=tls&alpn=h3&sni=ls-api.hyun.cc&type=ws&headerType=none&host=ls-api.hyun.cc&path=%2F#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@delilah.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&host=638987972960682357.prius-amsht.info&type=ws&sni=638987972960682357.prius-amsht.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&type=ws&host=google.com&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?encryption=none&type=grpc&serviceName=7e41eb32ea906cebaf077110&security=reality&fp=safari&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&sni=www.microsoft.com&sid=7daa515f56d7db89#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://d9a019a1-f784-4d8e-b660-23679009d88d@ls-api.hyun.cc:8443?encryption=none&type=ws&host=ls-api.hyun.cc&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ls-api.hyun.cc#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
