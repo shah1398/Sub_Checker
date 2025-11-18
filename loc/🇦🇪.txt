@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://cd48afea-c986-415e-9efa-79d48a9a509a@dubai.fonixapp.org:19146?security=reality&encryption=none&pbk=1l-JSuTfFd5Qa5QAzbY3Iowkk3RNq_EDMLFqPDpScBI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=stackoverflow.com&sid=0014de#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
