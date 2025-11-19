@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-aHlzdGVyaWEyOi8vZG9uZ3RhaXdhbmcuY29tQDIwOC44Ny4yNDMuMTg3OjIyMjIyP3NlY3VyaXR5PXRscyZpbnNlY3VyZT0xJnNuaT13d3cuYmluZy5jb20jaGFtZWRwNzElM0ElM0ElRjAlOUYlODclQkElRjAlOUYlODclQjg=
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971880245562150.mashhad-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
