@@ -2,16 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5RlpVNGdxQTBZeEo3ZjVnU2NkWFFx@89.185.84.185:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RXhrU1dlY2lSMmM5cHJGcHdKNGpY@89.185.84.185:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGWGpNUUllbTB1U2hHdlJ6T3BmeWli@89.185.84.185:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSR3k1dGxtOGJBUWRNNXpjOVhGRjBZ@89.185.84.185:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVXhDOW41T0I4bnlsZHpCSEdZNGNk@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDaGpUdHA3N0laZmZDejh4bDg1bEhr@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5RlpVNGdxQTBZeEo3ZjVnU2NkWFFx@89.185.84.185:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://8b7d4642-dff2-4c16-81a4-88ca738d6718@91.199.32.191:2053?path=%2FFree-VPN-CF-Geo-Project%2F91.199.32.191%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+trojan://d69e725c-7c7e-4c75-9786-4859b4e0bbc6@109.169.76.23:443?path=%2FFree-VPN-CF-Geo-Project%2F109.169.76.23%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?mode=gun&security=reality&encryption=none&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&fp=safari&type=grpc&serviceName=7e41eb32ea906cebaf077110&sni=www.microsoft.com&sid=7daa515f56d7db89#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://ee41a97f-e3b7-4ab2-97cf-f12f93d69698@158.220.82.224:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=tTyX27Ray_QxyZv9ICeurhJkRaTp7t98UrBI1EDYVi8&sid=#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?mode=gun&security=reality&encryption=none&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&fp=safari&type=grpc&serviceName=7e41eb32ea906cebaf077110&sni=www.microsoft.com&sid=7daa515f56d7db89#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&type=ws&host=google.com&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://e819cfb1-3c30-48b0-957d-e479bace661b@64.176.188.215:80?encryption=none&type=ws&path=%2Frfvtgws&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://7c9d302f-1438-4f37-a6e0-0591dc4a4614@158.220.88.63:443?encryption=none&type=grpc&serviceName=7e41eb32ea906cebaf077110&security=reality&fp=safari&pbk=DTfizB6SKAjSe4gQVreWTIMpDT7HsDcqfR0_Y2xo7Gw&sni=www.microsoft.com&sid=7daa515f56d7db89#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://e819cfb1-3c30-48b0-957d-e479bace661b@64.176.188.215:80?encryption=none&type=ws&path=%2Frfvtgws&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7

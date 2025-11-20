@@ -3,6 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeVYySHFWc2prM2NFTXZkTjlpS3RO@77.83.246.74:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?path=%2FFree-VPN-CF-Geo-Project%2F217.30.10.31%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/217.30.10.31=8443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?path=%2FFree-VPN-CF-Geo-Project%2F217.30.10.31%3D8443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://422d402c-58f1-4473-abeb-fe6e69dc97ed@217.30.10.31:8443?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F217.30.10.31%3D8443&security=tls&fp=randomized&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
