@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?path=%2Fuywlzkws&security=tls&encryption=none&host=638991166348691947.corolla-amsia.info&type=ws&sni=638991166348691947.corolla-amsia.info#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC
-vless://ad0a1c58-c267-405a-b7b6-f2c419f4010b@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=638991166348691947.corolla-amsia.info&path=%2Fuywlzkws&security=tls&sni=638991166348691947.corolla-amsia.info#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%AC

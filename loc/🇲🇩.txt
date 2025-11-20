@@ -4,5 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bzdFYnRxSXdnWlhYSG1NdjVMYkxjT3hwdHlQbE5raA%3D%3D@178.23.190.238:443#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJT00zTE5tRWFSaUxHOFVNQ3djRlZHZDZhMUlpbDRoNQ%3D%3D@194.31.109.115:443#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://98f670fb-8a5a-4935-b4c8-9569ec19658a@cosmin.ns.cloudflare.com:443?encryption=none&type=ws&host=638991681638525311.jetta-amsia.info&path=%2Fufoxglws&security=tls&sni=638991681638525311.jetta-amsia.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
