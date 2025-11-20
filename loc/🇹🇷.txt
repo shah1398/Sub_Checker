@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0SmxFV2gyUHpETWV3OHFvOVlrUEVB@38.180.105.12:443#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://30fdfa76-f89e-4e50-831d-d6421b1c2dde@83.217.9.210:62178?security=reality&encryption=none&pbk=zTn523BtZw4lI_vCGidIF8WTb8xZ-mUOoK8nCXnIAXk&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=eeee2c2e8a38b0fb#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://86dbe182-c349-4aca-96dd-403172522feb@telegram-armanstore2.dynv6.net:49361?encryption=none&type=ws&host=telewebion.com&path=%2F%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----%40armanstore2---Telegram----&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&sni=telegram-armanstore2.dynv6.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7

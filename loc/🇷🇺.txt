@@ -2,19 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIbVpmZEduZjJMQmRraWRpdks0VjM5@81.90.31.219:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKQzFCREVYT2RZbmM3N2NIMGl1UUFP@81.90.31.219:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 trojan://6c1babeb-4b4e-4173-81d4-753b3a4dc202@185.229.66.213:2053?path=%2FFree-VPN-CF-Geo-Project%2F185.229.66.213%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 trojan://6c1babeb-4b4e-4173-81d4-753b3a4dc202@185.229.66.213:2053?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F185.229.66.213%3D2053&security=tls&fp=randomized&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@84.201.138.55:443?security=reality&encryption=none&pbk=RnIvbd50ZLR_blaue_KkJua5_z6pNgpO3RPiqAN3swg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=a20d3ed244c76426#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=%2Fx%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://cloud1163@cloud.whitenet.online:443?security=reality&encryption=none&pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=ab1cd2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://c7a2dbb0-f57f-4393-925b-7f93bc5fe418@176.108.243.254:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.vkvideo.ru&sid=f85b0cdd7d20c84c#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://vWY1WM6AIeFORqYVdNPm@vdd1.magarfajr.ru:443?security=reality&encryption=none&pbk=jEGQczp4iLV1YCcBBDi6vV2NtmLCd4WNLbZiXFRBQB8&headerType=&fp=chrome&spx=/s1PJZhRcflYYlay&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9b9b9c325f28&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=%2Fx%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@84.201.138.55:443?security=reality&encryption=none&pbk=RnIvbd50ZLR_blaue_KkJua5_z6pNgpO3RPiqAN3swg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=io.ozone.ru&sid=a20d3ed244c76426#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://vWY1WM6AIeFORqYVdNPm@vdd1.magarfajr.ru:443?security=reality&encryption=none&pbk=jEGQczp4iLV1YCcBBDi6vV2NtmLCd4WNLbZiXFRBQB8&headerType---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn---ettehad_vpn=none&fp=chrome&spx=/s1PJZhRcflYYlay&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9b9b9c325f28#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
