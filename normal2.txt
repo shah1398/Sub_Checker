@@ -845,7 +845,6 @@ hy2://2b195c17-5ff5-4b0d-a809-210b92212394@140.245.47.133:443/?mport=50000-65535
 hy2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443/?mport=26666-29999&insecure=1&sni=file-oss-ccs-02.dafei.de#%F0%9F%87%BA%F0%9F%87%B8%40FREE2CONFIG%20
 hy2://0d4bf3e5-783a-4c83-9e9c-e851c87f163a@5.231.70.146:57300/?insecure=1&sni=sfjxjp.sufujia.top#%F0%9F%87%A9%F0%9F%87%AA%40FREE2CONFIG%20
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk:1743/?sni=6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk
 hy2://de8854c7-fa17-4266-ae18-50a9732a0c4e@it1.1010991.xyz:3001?insecure=1&sni=it1.1010991.xyz#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20HY2%20%7C%20%40msv2flyng%20%5B1%5D
 hy2://a16d62f6-048d-11f0-af5a-f23c93136cb3@b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743?sni=b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20HY2%20%7C%20%40msv2flyng%20%5B2%5D
 hy2://d5488371-4d89-4699-890f-7abeb28c4076@hsmg.huasuan666.top:22151?insecure=1&sni=hsmg.huasuan666.top#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20%F0%9F%94%92%20HY2%20%7C%20%40msv2flyng%20%5B4%5D
