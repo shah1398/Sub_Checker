@@ -4,3 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B7
 trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&sni=temporaltortellini.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B7
+trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&sni=temporaltortellini.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none&host=t.me%2Fv2Line#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B7
