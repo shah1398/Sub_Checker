@@ -2,7 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://4e060f72-a929-4cf9-a797-e06c42669722@95.134.130.68:53132?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://4e060f72-a929-4cf9-a797-e06c42669722@95.134.130.68:53132?type=tcp&encryption=none&security=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://30fdfa76-f89e-4e50-831d-d6421b1c2dde@83.217.9.210:62178?security=reality&encryption=none&pbk=zTn523BtZw4lI_vCGidIF8WTb8xZ-mUOoK8nCXnIAXk&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=eeee2c2e8a38b0fb#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://33948d80-d11f-461e-9379-1a2f155e3b5d@185.39.204.80:8443?security=reality&encryption=none&pbk=KzWuXQklAIVCPtjF7m25sGfSSvQYZP_zbY2ORib-VzE&host=google.com%3A443&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=62ec44ae23107c6f#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
