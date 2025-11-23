@@ -3,22 +3,17 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@18.177.138.138:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.223.205:2760?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.73.102:127?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.89.176:2760?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.138.24:127?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.51.29:2760?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@18.177.138.138:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@153.121.51.29:2760?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.116.227:127?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293/?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCJ9
 vmess://eyJ2IjoiMiIsImFkZCI6IjgyLjE5Ny42OS4xMzEiLCJwb3J0IjozOTY3NCwiaWQiOiI1YTg5Mzg2YS04MjdiLTRmNTQtODc3OC0yZjFiNTEyMmM2ZWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiI+PkB2MmxpbmU6OlNHOjpYWCIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIn0
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJ2IjoiMiIsImFkZCI6ImNmLjA5MDIyNy54eXoiLCJwb3J0IjoiNDQzIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwic25pIjoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsImhvc3QiOiJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwicGF0aCI6Ii8iLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCJ9
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@140.245.48.42:443?path=%2Ffreecodes%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@91.192.81.154:2053?path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%20%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://a3e65839-adcf-404f-8076-c8bf6dcdadd1@158.178.229.178:443?encryption=none&type=ws&host=imalrzaiserver.imalrzai.workers.dev&path=%2F%3Fed&security=tls&fp=chrome&sni=imalrzaiserver.imalrzai.workers.dev#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://9226cd53-139e-4cc6-835d-2ed3b8daf8a8@13.212.19.68:56138?encryption=none&type=ws&host=test.989819.xyz&path=%2F%3Fed%3D2560&security=tls&sni=test.989819.xyz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
