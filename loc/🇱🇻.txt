@@ -5,5 +5,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ%3D%3D@94.131.104.147:443#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vmess://eyJhZGQiOiIyMTYuMTczLjY5LjI1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5MTM4MjA5Mi0yMzMwLTQ1NWItOGExYy05YzEyOWNmZTY2MWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6ImhhbWVkcDcxOjrwn4ex8J+HuyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
 vless://6bb90b5a-db5b-401d-afa9-49667e75de1e@77.73.238.211:16109?security=reality&encryption=none&pbk=SaMw05aDLQh_Bb55XStVfvcBinGmCmCrZGqg5yI6s2s&host=%C3%97http&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=46ef6b9bc8#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505/?type=ws&encryption=none&flow=&path=%2F#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://6a67d755-6ea7-4447-a7d0-7faae429ff1a@lv.tvm1.ru:59724?security=reality&encryption=none&pbk=ebgYDy5MsZiayW8VYknobN3wDvmmxCeYvYnjTKbid1M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=0234359d414eac72#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?security=&type=ws&path=%2F&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?encryption=none&type=ws&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB

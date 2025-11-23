@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://d42223ff-aace-4c18-bacf-18d6abb9314f@46.20.111.246:3035?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
 vless://d42223ff-aace-4c18-bacf-18d6abb9314f@46.20.111.246:3035?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
+vless://d42223ff-aace-4c18-bacf-18d6abb9314f@46.20.111.246:3035?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
+vless://d42223ff-aace-4c18-bacf-18d6abb9314f@46.20.111.246:3035?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7

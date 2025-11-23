@@ -4,7 +4,7 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwbDJYdFIwcHp3a25RT0d3ZXdid1h0UFlEdzF6bjlWdQ==@213.159.66.206:443#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
+trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
+trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
