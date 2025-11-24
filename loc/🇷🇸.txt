@@ -4,4 +4,4 @@
 
 trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?path=%2FFree-VPN-CF-Geo-Project%2F188.132.129.199%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
 trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/188.132.129.199=2053&host=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
-trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F188.132.129.199%3D2053&security=tls&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
+trojan://0b5ea56a-056b-4917-9a47-b20ecfb78ad9@188.132.129.199:2053?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F188.132.129.199%3D2053&security=tls&fp=randomized&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B8
