@@ -2,14 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?allowInsecure=0&sni=joss.gpj1.web.id&type=ws&host=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.192.102.92=443#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://b87a1832-96c8-4291-b273-30a4d68f2629@91.245.225.69:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/91.245.225.69=443&host=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://b87a1832-96c8-4291-b273-30a4d68f2629@91.245.225.69:443?path=%2FFree-VPN-CF-Geo-Project%2F91.245.225.69%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?path=%2FFree-VPN-CF-Geo-Project%2F91.192.102.92%3D443&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://1816469c-afd6-4bc4-8b96-5196edc2f566@45.95.232.115:2053?path=%2FFree-VPN-CF-Geo-Project%2F45.95.232.115%3D2053&security=tls&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://1816469c-afd6-4bc4-8b96-5196edc2f566@45.95.232.115:2053?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F45.95.232.115%3D2053&security=tls&fp=randomized&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://8d047125-8467-4724-bb62-ef64405dca78@91.192.102.92:443?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F91.192.102.92%3D443&security=tls&fp=randomized&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-trojan://b87a1832-96c8-4291-b273-30a4d68f2629@91.245.225.69:443?type=ws&host=joss.gpj1.web.id&path=%2FFree-VPN-CF-Geo-Project%2F91.245.225.69%3D443&security=tls&fp=randomized&sni=joss.gpj1.web.id#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://7aae7d90-0b37-421e-834a-502ea15f43df@208.69.78.142:443?encryption=none&type=grpc&serviceName=dcfc23920fc8a07991dda30d&security=reality&fp=chrome&pbk=eV7nN5zQA1ecRLyt2u1ChDrl5LU832tCySZOrWoiVXo&sni=www.microsoft.com&sid=91fbf6164cb2bc53#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443?encryption=none&type=ws&host=us1.candyfans.win&path=%2Fcgunws&security=tls&sni=us1.candyfans.win#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://dfb3a6e5-8ef6-42f8-afe4-addd8518b4de@us4.candyfans.win:443?encryption=none&type=ws&host=us4.candyfans.win&path=%2Fudlpws&security=tls&sni=us4.candyfans.win#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

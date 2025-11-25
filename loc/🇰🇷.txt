@@ -3,8 +3,9 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://WmFcbQ1O%3DhAJd-i2@158.247.206.18:15974/?type=tcp&security=tls&sni=kszfviehlrb.zwodhfgqaps.click#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://WmFcbQ1O%3DhAJd-i2@158.247.206.18:15974/?type=tcp&security=tls&sni=kszfviehlrb.zwodhfgqaps.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://WmFcbQ1O%3DhAJd-i2@158.247.206.18:15974/?type=tcp&security=tls&sni=kszfviehlrb.zwodhfgqaps.click#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6ImhhbWVkcDcxOjrwn4ew8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 vless://6923b959-c65f-764c-b072-94711382d716@121.131.104.228:50001?allowInsecure=0&sni=s2.sni565.netlib.re&alpn=h3&type=ws&host=s2.sni565.netlib.re&path=/proxyip=tw.sni2025.netlib.refp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&sid=d6cd#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://69228a95-e9cb-b1ff-40d2-7315d9d4b9b7@106.245.165.137:50001?allowInsecure=0&sni=s3.sni565.netlib.re&alpn=h3&type=ws&host=s3.sni565.netlib.re&path=/proxyip=tw.sni2025.netlib.refp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://69228a95-e9cb-b1ff-40d2-7315d9d4b9b7@211.195.83.140:50003?security=tls&type=ws&path=%2Fproxyip%3Dtw.sni2025.netlib.re&host=s3.sni565.netlib.re&alpn=h3&sni=s3.sni565.netlib.re&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
