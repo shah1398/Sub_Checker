@@ -5,3 +5,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc%3D@64.137.109.212:44884#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@64.137.109.212:44884#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 trojan://f1b5925b-eb26-4a2c-90fa-0d48157dd4b9@46.20.106.162:443?path=%2FFree-VPN-CF-Geo-Project%2F46.20.106.162%3D443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://f1b5925b-eb26-4a2c-90fa-0d48157dd4b9@46.20.106.162:443?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F46.20.106.162%3D443&security=tls&fp=randomized&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE

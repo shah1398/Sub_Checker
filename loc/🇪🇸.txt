@@ -2,11 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTmg1YVBUWU5OcHptNHRQTjhQc3ZG@194.87.45.189:443#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaUZjclB3VGxCbkEzOUVMcnVMazB6@194.87.45.189:443#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTmg1YVBUWU5OcHptNHRQTjhQc3ZG@194.87.45.189:443#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaaUZjclB3VGxCbkEzOUVMcnVMazB6@194.87.45.189:443#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 trojan://c8aaa748-74ba-4443-84e0-231e61fb83fd@194.87.45.19:8443?path=%2FFree-VPN-CF-Geo-Project%2F194.87.45.19%3D8443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 trojan://c8aaa748-74ba-4443-84e0-231e61fb83fd@194.87.45.19:8443?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F194.87.45.19%3D8443&security=tls&fp=randomized&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 trojan://e501a180-c9a4-4f49-b082-77e9b3db6407@5.182.39.243:443?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F5.182.39.243%3D443&security=tls&fp=randomized&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
