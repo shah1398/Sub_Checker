@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzcWdOZ3pYQWRtYlpHUm1iU042QmpM@62.133.63.21:65262#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 trojan://f311aff6-6cd2-4d62-8765-25d879b2516a@83.217.9.110:24443/?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F83.217.9.110%3D24443&security=tls&sni=joss.gpj.web.id&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
