@@ -6,10 +6,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpReGJDMmFvdVdsbGwwV0ZIc1phTnpZ@77.83.246.74:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvek5YSExmRzlXZTdTUlpoMWtlbmNq@77.83.246.74:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVGg2U1pXUkZKS0QxYUdKa2p3eml1@77.83.246.74:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCY3FBSDk4VFp2QW9jR01Za1F6eWMx@77.83.246.74:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA%3D%3D@45.15.126.19:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozUjlFV2ZQa2pnQndpOEtNaFhrNlha@77.83.246.74:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&allowInsecure=1&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://77936dc1-12c0-4fd0-956e-af4e7cd4937b@77.83.246.133:24443?path=%2FFree-VPN-CF-Geo-Project%2F77.83.246.133%3D24443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://77936dc1-12c0-4fd0-956e-af4e7cd4937b@77.83.246.133:24443?path=%2FFree-VPN-CF-Geo-Project%2F77.83.246.133%3D24443&security=tls&host=joss.gpj.web.id&fp=randomized&type=ws&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://77936dc1-12c0-4fd0-956e-af4e7cd4937b@77.83.246.133:24443?type=ws&host=joss.gpj.web.id&path=%2FFree-VPN-CF-Geo-Project%2F77.83.246.133%3D24443&security=tls&fp=randomized&sni=joss.gpj.web.id#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://a39f52e2-0ce3-4232-8a74-37a87bcaaeb4@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://a39f52e2-0ce3-4232-8a74-37a87bcaaeb4@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-pl-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pAriSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://9036dc47-d0ec-4837-bf55-86f497937cff@144.31.1.122:8080?security=none&encryption=none&host=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://a39f52e2-0ce3-4232-8a74-37a87bcaaeb4@alhilal.com:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-pl-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-pl-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://a39f52e2-0ce3-4232-8a74-37a87bcaaeb4@alhilal.com:443?encryption=none&type=ws&host=rAyAn-cOnFiG-pl-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&fp=chrome&sni=rAyAn-cOnFiG-pl-1.pAriSa.dPdNs.oRg#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
