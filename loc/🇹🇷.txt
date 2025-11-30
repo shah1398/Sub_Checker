@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://be3b4d70-9922-4f58-83f3-e767a9c809ce@62.133.63.18:31599?security=reality&encryption=none&pbk=NppMSXpIT34fvmvoUYHUJUiY101cXqTb9ElNiNIFWGE&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=299f242bde816695#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://88ba0958-d6e8-4c7b-9a80-e5180c520989@istanbul.fonixapp.org:25059?security=reality&encryption=none&pbk=f8rRV7gssAlL-e8teb5xR9q1vRwRJ3pvORgscKSgPAM&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yelp.com&sid=1ec404fc#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://be3b4d70-9922-4f58-83f3-e767a9c809ce@62.133.63.18:31599?security=reality&encryption=none&pbk=NppMSXpIT34fvmvoUYHUJUiY101cXqTb9ElNiNIFWGE&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=299f242bde816695#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7

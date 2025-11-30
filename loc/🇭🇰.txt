@@ -2,19 +2,18 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://f61a4285-7264-4d07-9408-7b9ba1922c26@36.50.90.241:35951?path=%2FX%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@188.116.22.96:5003#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://2cf6d686799e6fa95316394064f26c0a@58.152.18.192:443?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://2cf6d686799e6fa95316394064f26c0a@58.152.18.192:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vmess://eyJhZGQiOiI4LjIxNy4xNzYuMTA4IiwiaWQiOiI0NjdhNTYzMC0zYzU0LTQxM2ItOGNjNi1kZWFjMDY3YmMxOGMiLCJwb3J0IjoiNDcyOCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIn0
+vmess://eyJhZGQiOiI4LjIxMC4xMzQuMTgzIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImU3MmY1YzZiLTIyMGYtNDBiMy1hMTE1LTJkODE0NzM0NThjZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzcyMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AifQ
+vmess://eyJhZGQiOiI0Ny4yMzguNzEuMTY2IiwiaWQiOiIwYjNkYTZlMC0yYTQxLTQ5ZTQtOGJlZS1jZmE3MDVkNDQ4ZmMiLCJwb3J0IjoiMzcyMSIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIn0
 vmess://eyJhZGQiOiI4LjIxNy4xNzYuMTA4IiwiaWQiOiI3ODM2YzUxNi03MGJlLTRjZGUtYTRiZC03ZTIyNTk4OTI0MWEiLCJwb3J0IjoiMzcyMSIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIn0
+vmess://eyJhZGQiOiI4LjIxNy4xNzYuMTA4IiwiaWQiOiI0NjdhNTYzMC0zYzU0LTQxM2ItOGNjNi1kZWFjMDY3YmMxOGMiLCJwb3J0IjoiNDcyOCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIn0
 vmess://eyJhZGQiOiI4LjIxOC4xOTkuMTExIiwiaWQiOiJmNTVkYjQyZC1lZTUyLTRhNDctODgwYi02ZjdiMTIzYWIyMjIiLCJwb3J0IjoiODA4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh63wn4ewIn0
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImlkIjoiMmMxODA3Y2UtNmE2My00NDUxLTlhZGQtYTc3OGQyNTA3MTYwIiwicG9ydCI6IjE4MzkzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AifQ
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImlkIjoiNDYwOTA4YjgtZGUxNi00MmU5LWJkMGQtMTkxNTIyYWI5MmE1IiwicG9ydCI6IjE1MDk3Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AifQ
-vmess://eyJhZGQiOiIxNDkuMzAuMjMyLjEwMyIsImlkIjoiNTM4MTQ0NWQtNmFlNC00OTQ4LWI2MWEtYTE2ZDk0OThkMjFiIiwicG9ydCI6IjMxNDY5Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AifQ
+vmess://eyJhZGQiOiI4LjIxOC4xNy4xMzYiLCJpZCI6ImEwZTA1MGNhLTZkMzctNDUyZi1iZjVjLTNlNGU0NzVlZjM2YiIsInBvcnQiOiI0NzI4Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HrfCfh7AifQ
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.0.221:443?encryption=none&security=tls&sni=dabaius2.sylu.net&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?path=/db10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&fp=chrome&type=ws&sni=dabaius2.sylu.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.1.221:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&fp=chrome&type=ws&sni=dabaius2.sylu.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.224.78.8:10001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=D_kMOsg1KCtT0tudPFVDXGuEcSqZGtUYqBB-BiIxmls&sid=f7223dab#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://f61a4285-7264-4d07-9408-7b9ba1922c26@118.141.64.192:36619?path=%2Ftelegram%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%2F%3Ded%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://3f9c8463-8610-3ed8-86c8-a26713067825@104.26.0.221:443?encryption=none&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab&security=tls&sni=dabaius2.sylu.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
