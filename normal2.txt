@@ -385,7 +385,6 @@ hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&sni=jn
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@dir.cybsecguru.com:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 hy2://dongtaiwang.com@163.172.21.105:5355/?insecure=1&sni=www.bing.com#🎵12@oneclickvpnkeys
 hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#🎵14@oneclickvpnkeys
-hy2://dongtaiwang.com@51.158.218.2:50066/?insecure=1&sni=www.bing.com#🌏38@oneclickvpnkeys
 hy2://dongtaiwang.com@51.158.218.2:50066/?insecure=1&sni=www.bing.com#🎵5@oneclickvpnkeys
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#🎵19@oneclickvpnkeys
 hy2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880/?insecure=1&sni=apple.com#🎵23@oneclickvpnkeys
@@ -915,8 +914,6 @@ vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026cd.zanddynastyofpersia.org:4
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20direct%20vless-frag
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026cd.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026cd.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026cd.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20CDN%20vless-trojan-frag
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?path=%2FeJsVXFVZ6iavNx1EFxOyH861WH&security=tls&encryption=none&host=net2026.zanddynastyofpersia.org&fp=chrome&type=ws&sni=net2026.zanddynastyofpersia.org#%F0%9F%87%A9%F0%9F%87%AA%20tls%20WS%20direct%20vless
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20%F0%9F%94%92%20HY2%20%7C%20%40v2ray_collector%20%5B8%5D
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20HY2%20%7C%20%40v2ray_collector%20%5B9%5D
 hy2://Telegram--%3E%40Ln2Ray@[2a14:3f87:f001:9::a]:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FREE2CONFIG%20%20
 hy2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#%F0%9F%87%B3%F0%9F%87%B1%40FREE2CONFIG%20%20
 hy2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%F0%9F%87%B3%F0%9F%87%B1%40FREE2CONFIG%20%20
@@ -963,3 +960,5 @@ hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@6adab57e-t53wg0-tdvgqe-2gok.la.shifen
 hy2://da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d@tr.xn--gmq00sc0nuve.shop:21105/?insecure=1#%F0%9F%87%B9%F0%9F%87%B7%40FREE2CONFIG%20
 hy2://8ccc25e0-d818-4e50-a636-cf9f7230c537@tw3.qucloud.top:58430/?insecure=1&sni=tw3.qucloud.top#%F0%9F%87%BA%F0%9F%87%B8%40FREE2CONFIG%20
 hy2://cb4c45c8-62c9-4804-84b2-5368e412c19e@ptyn.jgpyjc.top:40000/?sni=ptyn.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#%F0%9F%87%BB%F0%9F%87%B3%40FREE2CONFIG%20
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xg1.mangshe.xyz:2056?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%7C%20%F0%9F%94%92%20HY2%20%7C%20%40v2ray_collector%20%5B8%5D
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20%F0%9F%94%92%20HY2%20%7C%20%40v2ray_collector%20%5B9%5D
