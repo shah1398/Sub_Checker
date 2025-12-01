@@ -2,21 +2,41 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&sni=kuame.missionsec.us#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&headerType=none&type=tcp&sni=shoppingmall.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://trojan@ip.sb:8443?security=tls&sni=fofang.pages.dev&type=ws&path=/?ed=2560&Host=fofang.pages.dev#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=diningtable.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 trojan://79314e99f0a473fe86efc7827942ad00@58.152.18.192:443?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://fg20mtCFHy@usiys.southbyte.xyz:5897/?type=tcp&security=tls#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpillow.silentrocket.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293/?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://z-H_x58nS%3DVUaw.o@216.238.94.42:19939/?type=tcp&security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
 trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415/?type=tcp&security=tls&sni=quietplace.lazymountain.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%B1
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?allowInsecure=0&sni=kuame.missionsec.us#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://z-H_x58nS%3DVUaw.o@216.238.94.42:19939/?type=tcp&security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%BD
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?allowInsecure=0&sni=shoppingmall.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.138.24:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.223.205:1331?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:2760?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.73.102:2760?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://79314e99f0a473fe86efc7827942ad00@18.162.142.242:4054?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:4054?allowInsecure=1&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:4054?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://79314e99f0a473fe86efc7827942ad00@18.162.142.242:4054?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=diningtable.electricbanana.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+trojan://f42d1b0d-c398-43cb-be37-d739b1477a5d@107.189.3.96:443?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F107.189.3.96%3D443&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+trojan://68b147df-fec7-4859-8f67-3ef0a3d8d3b4@87.236.146.76:443?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F87.236.146.76%3D443&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+trojan://e5e79b65-c5fd-4b06-8f56-6bf8c44a61d9@193.42.112.66:2053?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F193.42.112.66%3D2053&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+trojan://2d064df9-84c3-4927-a4b0-9f6e4f39c232@185.114.72.92:2053?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F185.114.72.92%3D2053&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+trojan://1e791d71-7981-4b86-902e-a034f2f3706b@91.217.76.237:443?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F91.217.76.237%3D443&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+trojan://d4a12141-8486-43ad-9b45-625a1b7f27c1@93.183.127.235:8443?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F93.183.127.235%3D8443&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://394a715e-3ef1-4aae-bb5e-a48857ed00b7@77.91.69.146:443?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F77.91.69.146%3D443&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B1
+trojan://c105ac24-8256-432b-aa40-449bfc11f3a8@45.149.63.235:2053?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F45.149.63.235%3D2053&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://bacfc529-f2d0-466d-bf2e-7cd35a49b72f@193.180.211.52:443?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F193.180.211.52%3D443&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://3c4e10af98c30972@23.247.137.64:443?type=grpc&serviceName=db&security=tls&alpn=h2&fp=chrome&sni=n2.gladns.com#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://034299f4-a5d4-4bdd-a6b0-a2a308ffe6be@192.227.138.249:8443?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F192.227.138.249%3D8443&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://6c7d536e-1ecf-448d-83c1-3044dd89ceac@5.182.39.57:443?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F5.182.39.57%3D443&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+trojan://e0a8e825-f800-4ec5-a2f3-ca8264911cf8@82.97.254.184:2053?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F82.97.254.184%3D2053&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+trojan://cb57093e-f983-4e87-b9fb-3b35aa5f9777@212.64.201.193:443?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F212.64.201.193%3D443&security=tls&fp=chrome&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA

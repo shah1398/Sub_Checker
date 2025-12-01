@@ -6,7 +6,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg=
 trojan://aWgKDJmn2q.hv%3D51@139.180.143.191:10293/?type=tcp&security=tls&sni=zmbvgixwdqusy.advudjng.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:2760?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://79314e99f0a473fe86efc7827942ad00@153.121.73.102:2760?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiaWQiOiIyOTBjYzY5MS0zYWM2LTQzODctOThhMS0yNWM4ZWI4Y2EyZWEiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwiYWxwbiI6IiIsImZwIjoiIiwic25pIjoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIn0
 vless://1bcfabf7-c143-4dab-989b-2b663e7e69c8@free.tharuwa.store:80?&type=ws&headerType=none&host=zoom.us&path=/FREE By Tharuwa (0767597317)#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967/?type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://a3e65839-adcf-404f-8076-c8bf6dcdadd1@158.178.229.178:443?encryption=none&type=ws&host=imalrzaiserver.imalrzai.workers.dev&path=%2F%3Fed&security=tls&fp=chrome&sni=imalrzaiserver.imalrzai.workers.dev#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://1bcfabf7-c143-4dab-989b-2b663e7e69c8@free.tharuwa.store:80?encryption=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC

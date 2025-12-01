@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.154:22230/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=qq&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.158:22230/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=qq&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://2dfa740c-8069-4993-8b96-c3e5dc540593@188.214.135.154:22230/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=qq&security=reality&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&sid=a9725715bf4c62ff#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
