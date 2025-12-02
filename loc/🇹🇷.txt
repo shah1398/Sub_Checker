@@ -4,4 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA=@5.188.36.93:31348#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU2xnQ29HaEFwT2I1NXRJTUQwenhZ@185.39.204.161:33563#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://267e5284-8c31-42ed-9807-2182a88ca78b@45.92.219.50:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=19aa22f681923dc8#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
