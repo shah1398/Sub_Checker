@@ -4,4 +4,6 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 trojan://e5e79b65-c5fd-4b06-8f56-6bf8c44a61d9@193.42.112.66:2053?path=%2FFree-VPN-CF-Geo-Project%2F193.42.112.66%3D2053&security=tls&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+trojan://ee1ff898-84c2-4910-b663-08884a428742@109.235.246.34:443?path=%2FFree-VPN-CF-Geo-Project%2F109.235.246.34%3D443&security=tls&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 trojan://e5e79b65-c5fd-4b06-8f56-6bf8c44a61d9@193.42.112.66:2053?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F193.42.112.66%3D2053&security=tls&fp=randomized&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://d29bde62-daa4-4804-9c69-6e23a4150006@45.92.176.55:1243?security=reality&encryption=none&pbk=jcJeCbLo5JtfveFIQLV6WNm1148XzxDc0Rzy336hXy0&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=ff3cef7cdcf9#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
