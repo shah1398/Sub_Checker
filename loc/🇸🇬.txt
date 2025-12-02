@@ -3,11 +3,13 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:2760?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.81.84:2760?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://79314e99f0a473fe86efc7827942ad00@160.16.124.55:2760?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://79314e99f0a473fe86efc7827942ad00@160.16.214.6:2760?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://feca80bb-378f-4b96-b127-5bb4938cca81@167.99.73.22:443?path=%2FFree-VPN-CF-Geo-Project%2F167.99.73.22%3D443&security=tls&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://feca80bb-378f-4b96-b127-5bb4938cca81@167.99.73.22:443?type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2F167.99.73.22%3D443&security=tls&fp=randomized&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCJ9
+vmess://eyJ2IjoiMiIsImFkZCI6IjgyLjE5Ny42OS4xMzEiLCJwb3J0IjozOTY3NCwiaWQiOiI1YTg5Mzg2YS04MjdiLTRmNTQtODc3OC0yZjFiNTEyMmM2ZWYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6InQubWUvdjJMaW5lIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsIm5hbWUiOiI+PkB2MmxpbmU6OlNHOjpYWCIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIn0
 vless://1bcfabf7-c143-4dab-989b-2b663e7e69c8@free.tharuwa.store:80?&type=ws&headerType=none&host=zoom.us&path=/FREE By Tharuwa (0767597317)#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://ea0ba1f9-87dc-4599-8532-c94a61b5fda6@167.99.73.22:443?path=%2FFree-VPN-CF-Geo-Project%2FSG5192&security=tls&encryption=none&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://ea0ba1f9-87dc-4599-8532-c94a61b5fda6@167.99.73.22:443?path=%2FFree-VPN-CF-Geo-Project%2F167.99.73.22%3D443&security=tls&encryption=none&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
@@ -16,5 +18,4 @@ vless://f61a4285-7264-4d07-9408-7b9ba1922c26@140.245.48.42:443?path=%2Ffreecodes
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@91.192.81.154:2053?path=%2Fx%20%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94%20%2F&security=tls&encryption=none&host=gaosir.unfeeling.sbs&fp=chrome&type=ws&sni=gaosir.unfeeling.sbs#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://1bcfabf7-c143-4dab-989b-2b663e7e69c8@free.tharuwa.store:80?encryption=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://ea0ba1f9-87dc-4599-8532-c94a61b5fda6@167.99.73.22:443?encryption=none&type=ws&host=joss.gpj4.web.id&path=%2FFree-VPN-CF-Geo-Project%2FSG5192&security=tls&fp=randomized&sni=joss.gpj4.web.id#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@news.zoom.us:2096?encryption=none&type=ws&host=free-server.techsonic.cloud&path=%2Ffree-server.techsonic.cloud&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=free-server.techsonic.cloud#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://a3e65839-adcf-404f-8076-c8bf6dcdadd1@158.178.229.178:443?encryption=none&type=ws&host=imalrzaiserver.imalrzai.workers.dev&path=%2F%3Fed&security=tls&fp=chrome&sni=imalrzaiserver.imalrzai.workers.dev#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
