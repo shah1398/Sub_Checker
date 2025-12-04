@@ -2,11 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.208.52:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.204.140:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://465f35d5-897c-4ce0-811c-24ac58711f45@65.20.113.114:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.196.38:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.195.30:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.200.171:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.210.5:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.114.212:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.196.36:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.208.167:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.214.149:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
