@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://74053bef-bd35-4654-b45b-a79f75a60637@45.92.176.55:5343?security=reality&encryption=none&pbk=fmBHlPC9Fmxx3aMQnV-Hw9wAZpe7WJROiGa11lLXRjc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=7d88#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B2
 vless://74053bef-bd35-4654-b45b-a79f75a60637@rontgen.fasssst.ru:5343?security=reality&encryption=none&pbk=fmBHlPC9Fmxx3aMQnV-Hw9wAZpe7WJROiGa11lLXRjc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=e207433b2a#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B2
+vless://74053bef-bd35-4654-b45b-a79f75a60637@45.92.176.55:5343?security=reality&encryption=none&pbk=fmBHlPC9Fmxx3aMQnV-Hw9wAZpe7WJROiGa11lLXRjc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rontgen.fasssst.ru&sid=7d88#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%B2
