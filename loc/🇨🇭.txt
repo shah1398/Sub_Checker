@@ -4,5 +4,5 @@
 
 vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443?encryption=none&security=tls&sni=us1.candyfans.win&type=ws&host=us1.candyfans.win&path=/cgunws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443/?type=ws&encryption=none&flow=&host=us1.candyfans.win&path=%2Fcgunws&security=tls&sni=us1.candyfans.win&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://dfb3a6e5-8ef6-42f8-afe4-addd8518b4de@us4.candyfans.win:443?encryption=none&type=ws&host=us4.candyfans.win&path=%2Fudlpws&security=tls&fp=chrome&sni=us4.candyfans.win#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://d82baa81-c138-49fc-b81e-7ef0eb7ff063@us1.candyfans.win:443?encryption=none&type=ws&host=us1.candyfans.win&path=%2Fcgunws&security=tls&sni=us1.candyfans.win#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://dfb3a6e5-8ef6-42f8-afe4-addd8518b4de@us4.candyfans.win:443?encryption=none&type=ws&host=us4.candyfans.win&path=%2Fudlpws&security=tls&fp=chrome&sni=us4.candyfans.win#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD

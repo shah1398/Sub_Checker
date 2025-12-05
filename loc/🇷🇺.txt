@@ -3,13 +3,10 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://russia@russia.whitenet.online:443?security=reality&encryption=none&pbk=xdNyDss0OLTu3z6kcdg8X2wfTOLtmDTobE2on3vKe34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab1cd2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://4ce38652-b84c-5aab-8b2c-f897a217b41b@russia.whitenet.online:443?security=reality&encryption=none&pbk=xdNyDss0OLTu3z6kcdg8X2wfTOLtmDTobE2on3vKe34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab1cd2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://495d0938-b565-4f65-aa65-cbe876aadf47@80.249.131.236:444?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yt.fasssst.ru&fp=chrome&security=reality&pbk=14S-a9NL1PacapqVE4ojKZeEM5995jFyfwS0xc9UtRk&sid=1c2a18e708a1be9d#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@62.113.42.65:27121?type=tcp&encryption=none&flow=&sni=www.ok.ru&fp=chrome&security=reality&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://russia@russia.whitenet.online:443?security=reality&encryption=none&pbk=xdNyDss0OLTu3z6kcdg8X2wfTOLtmDTobE2on3vKe34&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab1cd2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://russia@russia.whitenet.online:443?security=reality&encryption=none&pbk=xdNyDss0OLTu3z6kcdg8X2wfTOLtmDTobE2on3vKe34&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab1cd2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?encryption=none&security=reality&sni=www.ok.ru&fp=chrome&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.ok.ru&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://2b686eab-2b2d-42c1-be27-8e87efe1a188@46.243.235.119:8443?encryption=none&type=grpc&serviceName=grpc&security=reality&fp=chrome&pbk=H0pKWuImigVROJhbHUdUIk3VPbuvRfI5ruiFnl7f-kY&sni=sun6-22.userapi.com&sid=24b5316e#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
