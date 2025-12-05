@@ -9,4 +9,3 @@ vmess://eyJhZGQiOiJlYmMuem9vbS51cyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vmess://eyJhZGQiOiJub2RlNC5ydHhjb25maWd6LmNvbSIsImlkIjoiNDRlNTc0ODUtZWNjYy00NmVmLTgwOGYtY2QxN2FjODEwMDE4IiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6Im5vZGU0LnJ0eGNvbmZpZ3ouY29tIiwicGF0aCI6Ii9ATWFsaW5kYTYxMDQiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJub2RlNC5ydHhjb25maWd6LmNvbSIsInBzIjoiaGFtZWRwNzE6OvCfh67wn4ezIn0
 vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
 vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B3
