@@ -2,17 +2,13 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&headerType=none&type=tcp&sni=softpillow.silentrocket.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://dcfe6ebe-00a3-83eb-8afb-0c703b94b515@Sol.sefrtasad.com:23499?security=reality&type=xhttp&path=%2F&sni=tile.openstreetmap.org&fp=randomized&pbk=CQQ7qxzfNbffCftCM8AYwXWxDaYRCzNHm6W6qVjj0Wc&sid=a5aa7f60a2f243a9#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://54bedd3b-15f1-43f3-aac1-8c2e2500dc7b@141.227.160.163:25539?security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://54bedd3b-15f1-43f3-aac1-8c2e2500dc7b@141.227.160.163:25539?encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.211.23:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@65.20.113.162:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.203.95:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.202.98:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://e0106b16-1d2d-45bc-c306-e31f422d9221@70.34.211.185:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.222.65:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.207.106:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.216.36:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@65.20.114.217:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.216.50:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.207.204:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://465f35d5-897c-4ce0-811c-24ac58711f45@70.34.194.219:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@65.20.115.75:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://895bcc7e-59c4-4872-d1b7-7fa19a8ec2ce@65.20.113.162:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://65e2772e-915a-4306-e3c7-e7bfa71e83fd@70.34.202.98:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
