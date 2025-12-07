@@ -2,11 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://9f4b9824-df02-49c3-a976-d4f9a31f81fe@38.54.122.118:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=dash.cloudflare.com&pbk=21MNt-O8tq9gP9o7yeT9iVQslHPdNVHtqI9Kg5p-lHo&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://0a05fb33-e39e-46a3-bfca-fcc0fb20052d@France.phantompanel.shop:2024?mode=gun&security=reality&encryption=none&pbk=hMvv9d1PfBXI7ow9PqaUJYqo9_uHTKQYWt0go0enwzQ&fp=chrome&type=grpc&serviceName=yourServiceName&sni=www.cloudflare.com&sid=650bbd4b5cae0713#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://04f3ed37-bfd4-46d3-b4eb-e62d1f32b6f9@69.84.182.13:443?&security=tls&sni=fr-1-fr-1.aiopen.sbs&type=ws&headerType=none&host=fr-1-fr-1.aiopen.sbs&path=%2Fkbjc%2Ffr1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxWUFHT044RmtsUkQxYnhhemhTeUNr@62.210.88.22:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTTXFEUXVqSHc5aUc0UmdKYkt3aVJ5@62.210.88.22:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4MiIsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxODUuMjQ4LjMzLjE3MyIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJmMWE1MTNkMi1jMzJhLTQ5ZGMtOGU2NC1kNGY4YTJmMWUwMDEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MTY0OTUsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4e3IiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0
 vless://c1a46bb0-029b-4a4e-bdc0-26ee9993f750@hitrafa.top:6013?security=reality&encryption=none&pbk=PA5o3z2JEgSZQNKifILMs6kxPlihWXFFkw4KtlQ6WXM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=16562e6057229b7a#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://c1a46bb0-029b-4a4e-bdc0-26ee9993f750@hitrafa.top:6013?security=reality&encryption=none&pbk=PA5o3z2JEgSZQNKifILMs6kxPlihWXFFkw4KtlQ6WXM&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=16562e6057229b7a#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://be72cd92-92d2-4543-9bef-1673fcd03b45@fr.nextseesion.ir:35789?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://04f3ed37-bfd4-46d3-b4eb-e62d1f32b6f9@69.84.182.13:443?path=%2Fkbjc%2Ffr1&security=tls&encryption=none&insecure=0&host=fr-1-fr-1.aiopen.sbs&type=ws&allowInsecure=0&sni=fr-1-fr-1.aiopen.sbs#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://04f3ed37-bfd4-46d3-b4eb-e62d1f32b6f9@69.84.182.13:443?encryption=none&type=ws&host=fr-1-fr-1.aiopen.sbs&path=%2Fkbjc%2Ffr1&security=tls&sni=fr-1-fr-1.aiopen.sbs#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
