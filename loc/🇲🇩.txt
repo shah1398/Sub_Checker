@@ -2,19 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bzdFYnRxSXdnWlhYSG1NdjVMYkxjT3hwdHlQbE5raA==@178.23.190.238:443#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bzdFYnRxSXdnWlhYSG1NdjVMYkxjT3hwdHlQbE5raA%3D%3D@178.23.190.238:443#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=1&host=terazhedi.info&type=ws&allowInsecure=1&sni=terazhedi.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=%2Faymdlws&security=tls&encryption=none&host=picassoo.info&type=ws&sni=picassoo.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassoo.info&type=ws&allowInsecure=0&sni=picassoo.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=/aymdlws&security=tls&encryption=none&insecure=0&host=picassoo.info&type=ws&allowInsecure=0&sni=picassoo.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info&fp=chrome#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=picassoo.info&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=picassoo.info&path=%2Faymdlws#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&insecure=0&host=terazhedi.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhedi.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&type=ws&sni=terazhedi.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?path=%2Faymdlws&security=tls&encryption=none&insecure=0&host=picassoo.info&type=ws&allowInsecure=0&sni=picassoo.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://7270612b-49f6-4b04-999c-34d8263da767@cosmin.ns.cloudflare.com:443?path=%2Faymdlws&security=tls&encryption=none&host=picassoo.info&fp=chrome&type=ws&sni=picassoo.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?path=%2Fsghiyws&security=tls&encryption=none&host=terazhedi.info&fp=chrome&type=ws&sni=terazhedi.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?encryption=none&type=ws&host=terazhedi.info&path=%2Fsghiyws&security=tls&sni=terazhedi.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
-vless://7270612b-49f6-4b04-999c-34d8263da767@108.162.195.45:443?encryption=none&type=ws&host=picassoo.info&path=%2Faymdlws&security=tls&sni=picassoo.info#hamedp71%3A%3A%F0%9F%87%B2%F0%9F%87%A9
