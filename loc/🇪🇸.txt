@@ -5,9 +5,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vmess://eyJhZGQiOiIyMDguNzYuMjIzLjIxOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkOGZkODk1NS03OGRiLTQ5YmEtZDg2Zi0zZTQ3MjlmNmFjNGQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQwNDMzIiwicHMiOiJoYW1lZHA3MTo68J+HqvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-vless://2b066334-ca87-4c56-9a79-2f3636ee53d1@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003456251297706.renegade-amsis.info&type=ws&host=639003456251297706.renegade-amsis.info&path=/dahdwsws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://2fd8bc88-ec5e-4de6-8545-b5cbfc08e965@brenna.ns.cloudflare.com:443?encryption=none&security=tls&sni=639006703178819173.sylphy-amsiv.info&type=ws&host=639006703178819173.sylphy-amsiv.info&path=/jyqbqpws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://5ea08836-6be8-4181-ab82-0e26282aa0aa@clyde.ns.cloudflare.com:443?encryption=none&security=tls&sni=639004042094863199.legacy-amsit.info&type=ws&host=639004042094863199.legacy-amsit.info&path=/haofzzws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://fba8aee4-abd7-42ba-a441-460019dddb0f@cosmin.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003338940169118.highlander-amsis.info&type=ws&host=639003338940169118.highlander-amsis.info&path=/prheflws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://5ea08836-6be8-4181-ab82-0e26282aa0aa@clyde.ns.cloudflare.com:443?path=%2Fhaofzzws&security=tls&encryption=none&type=ws&sni=639004042094863199.legacy-amsit.info#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
