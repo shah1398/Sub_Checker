@@ -2,14 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206YTY2YjBjYWQtYjFiZi00NDhlLWEzNzUtOWYxOGQ3MmY4ZjAw@38.244.209.215:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vmess://eyJ2IjoiMiIsImFkZCI6IjY1LjEwOS4yMzEuMTU0IiwicG9ydCI6MjAyMDAsImlkIjoiZTc1Nzg3ODktMmRkMC00OTFmLWEzMGItN2FhNTgyZGMyMjlkIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4euIn0
 vless://e94ad226-4aa4-451e-84b3-ee728ac9f8c4@65.109.230.46:16553?type=grpc&encryption=none&serviceName=&authority=@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&security=reality&pbk=kb8yYc6hEyJ5KLho4ol_Fzmh48wUFYxl9FuWegdEvBk&fp=chrome&sni=google.com&sid=38cc&spx=/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@45.131.185.234:443?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://5fd98b1c-ffcc-4493-b507-6fdcccd5f474@65.109.231.154:20400?type=ws&encryption=none&path=%2F&host=&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?mode=auto&security=none&encryption=none&type=xhttp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://969695f5-6a06-4297-86a8-2d464e4cb356@vv.vipirvcip.sbs:2082?encryption=none&type=xhttp&mode=auto&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://e94ad226-4aa4-451e-84b3-ee728ac9f8c4@65.109.230.46:16553?encryption=none&type=grpc&security=reality&fp=chrome&pbk=kb8yYc6hEyJ5KLho4ol_Fzmh48wUFYxl9FuWegdEvBk&sni=google.com&sid=38cc&spx=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
