@@ -2,15 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4Z29Pc3l5QnYyWW40dzBoU3Fqc05xZjVJR2JJRVRaNg==@5.253.41.46:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://76d630f2af6619c4a5de0ef953df3c6a@153.121.73.102:1331?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.242.183:1331?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.242.183:1331?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://bc9a8522-d884-41cd-de9c-9a29812b55ef@138.2.50.155:38487?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@138.2.16.61:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1&fp=random#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://bc9a8522-d884-41cd-de9c-9a29812b55ef@138.2.50.155:38487?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&encryption=none&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&headerType=none&fp=ios&spx=%2FWrlEujUojrpP7Bk&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://e0306a33-9971-4b75-a5e0-a176a5a48a2e@15.168.173.144:443?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=swdist.apple.com&sid=232c6f7b520b89&fp=ios&pbk=vP8gpoNVFYROBMtlCswj3S7q6ypRdE9VMGdg5KPKFG0&spx=%2FWrlEujUojrpP7Bk&headerType=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://549da73c-e0c5-4590-a31e-1fc23d222a19@46.250.250.149:443?encryption=none&type=grpc&serviceName=92b9086d26e6417608e7a1f4&security=reality&fp=safari&pbk=NTI9xX2nhvkiIda2Y4aExcxIxOOc6MctDWBPZqeN6QE&sni=www.microsoft.com&sid=7795775a7afe0581#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
