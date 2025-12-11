@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
+vless://21a0f0e0-01ed-43d9-9e4c-0fad203599e9@vn.yxzbp.click:80?encryption=none&type=ws&host=vn.yxzbp.click&path=%2Fvn&security=none#hamedp71%3A%3A%F0%9F%87%BB%F0%9F%87%B3
