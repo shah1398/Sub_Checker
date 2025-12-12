@@ -1,0 +1,237 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import os
+import json
+import threading
+import time
+import requests
+import base64
+import urllib.parse
+import socket
+from typing import List
+
+# ===================== تنظیمات =====================
+TEXT_PATH = "normal1560.txt"
+FIN_PATH = "final1560.txt"
+
+LINK_PATH = [
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Afghanistan.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Albania.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Argentina.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Armenia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Australia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Austria.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Bahrain.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Belarus.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Belgium.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Belize.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Bolivia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Brazil.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Bulgaria.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Cambodia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Canada.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/CentralAfricanRepublic.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Chile.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/China.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Colombia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/CostaRica.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Cyprus.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Czechia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Denmark.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Ecuador.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/EquatorialGuinea.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Estonia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Finland.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/France.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Georgia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Germany.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Greece.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Hungary.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Hysteria2.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Iceland.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/India.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Indonesia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Iran.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Iraq.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Ireland.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Israel.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Italy.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Japan.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Kazakhstan.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Laos.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Latvia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Lithuania.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Luxembourg.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Malaysia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Malta.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Mauritius.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Mexico.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Moldova.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Montenegro.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Namibia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Netherlands.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/NorthMacedonia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Norway.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Oman.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Panama.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Peru.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Philippines.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Poland.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Portugal.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Romania.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Russia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Samoa.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Seychelles.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/ShadowSocks.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/ShadowSocksR.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Singapore.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Slovakia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Slovenia.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/SouthAfrica.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/SouthKorea.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/SouthSudan.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Spain.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Sweden.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Switzerland.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Taiwan.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Thailand.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/TrinidadAndTobago.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Trojan.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Tuic.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Turkey.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Turkmenistan.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/UAE.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/UK.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/USA.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Ukraine.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Vietnam.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Vless.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Vmess.txt",
+    "https://raw.githubusercontent.com/tepo18/V2RayScrapeByCountry/main/output_configs/Wireguard.txt"
+]
+
+FILE_HEADER_TEXT = "//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE="
+
+# ===================== توابع =====================
+# (توابع همانند کد اصلی هستند بدون تغییر)
+def fetch_link(url: str) -> List[str]:
+    try:
+        r = requests.get(url, timeout=15)
+        if r.status_code == 200:
+            lines = r.text.splitlines()
+            return [l.strip() for l in lines if l.strip()]
+    except Exception as e:
+        print(f"[⚠️] Cannot fetch {url}: {e}")
+    return []
+
+def is_valid_config(line: str) -> bool:
+    line = line.strip()
+    if not line or len(line) < 5:
+        return False
+    lower = line.lower()
+    if "pin=0" in lower or "pin=red" in lower or "pin=قرمز" in lower:
+        return False
+    return True
+
+def parse_config_line(line: str):
+    try:
+        line = urllib.parse.unquote(line.strip())
+        for p in ["vmess", "vless", "trojan", "hy2", "hysteria2", "ss", "socks", "wireguard"]:
+            if line.startswith(p + "://"):
+                return line
+    except:
+        pass
+    return None
+
+def tcp_test(host: str, port: int, timeout=3) -> bool:
+    try:
+        with socket.create_connection((host, port), timeout=timeout):
+            return True
+    except:
+        return False
+
+def process_configs(lines: List[str], precise_test=False) -> List[str]:
+    valid_configs = []
+    lock = threading.Lock()
+
+    def worker(line):
+        cfg = parse_config_line(line)
+        passed = False
+
+        if cfg:
+            try:
+                import re
+                m = re.search(r"@([^:]+):(\d+)", cfg)
+                host, port = (m.group(1), int(m.group(2))) if m else ("", 443)
+
+                if precise_test and host:
+                    passed = tcp_test(host, port)
+                else:
+                    passed = True
+            except:
+                passed = False
+
+        if passed and is_valid_config(line):
+            with lock:
+                valid_configs.append(line)
+
+    threads = []
+    for line in lines:
+        t = threading.Thread(target=worker, args=(line,))
+        threads.append(t)
+        t.start()
+
+    for t in threads:
+        t.join()
+
+    # حذف تکراری
+    final_list = list(dict.fromkeys(valid_configs))
+    return final_list
+
+def save_outputs(lines: List[str]):
+    try:
+        # ابتدا فایل‌ها را خالی می‌کنیم
+        with open(TEXT_PATH, "w", encoding="utf-8") as f:
+            f.write("")
+        with open(FIN_PATH, "w", encoding="utf-8") as f:
+            f.write("")
+
+        # مرحله نرمال
+        normal_lines = lines
+        with open(TEXT_PATH, "w", encoding="utf-8") as f:
+            f.write("\n".join([FILE_HEADER_TEXT] + normal_lines))
+        print(f"[ℹ️] Stage 1: {len(normal_lines)} configs saved to {TEXT_PATH}")
+
+        # مرحله فینال با تست دقیق
+        final_lines = process_configs(normal_lines, precise_test=True)
+        with open(FIN_PATH, "w", encoding="utf-8") as f:
+            f.write("\n".join(final_lines))
+        print(f"[ℹ️] Stage 2: {len(final_lines)} configs saved to {FIN_PATH}")
+
+        print(f"[✅] Update complete. Total sources: {len(lines)}")
+        print(f"  -> Normal configs: {len(normal_lines)}")
+        print(f"  -> Final configs: {len(final_lines)}")
+
+    except Exception as e:
+        print(f"[❌] Error saving files: {e}")
+
+def update_subs():
+    all_lines = []
+
+    for url in LINK_PATH:
+        fetched = fetch_link(url)
+        if not fetched:
+            print(f"[⚠️] Cannot fetch or empty source: {url}")
+        else:
+            all_lines.extend(fetched)
+
+    print(f"[*] Total lines fetched from sources: {len(all_lines)}")
+    all_lines = process_configs(all_lines)
+    save_outputs(all_lines)
+
+# ===================== اجرای دستی =====================
+if __name__ == "__main__":
+    print("[*] Starting manual subscription update...")
+    update_subs()
+    print("[*] Done. Run this script manually whenever needed.")
