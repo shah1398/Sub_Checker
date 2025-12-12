@@ -2,10 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://bf92bdef-ab8d-4481-8798-2d39023357b2@wrs.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://bf92bdef-ab8d-4481-8798-2d39023357b2@test-pc.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.99.190:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://bf92bdef-ab8d-4481-8798-2d39023357b2@wrs.intfreed.ru:443?security=reality&encryption=none&pbk=JxwG7rAbNCd_C82p9K69AZDWh51fri2nm3wLHHrfyiw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=video.intfreed.ru&sid=7755e972daf8eec8#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://4a6de183-2ad3-456c-b420-feeac81f6257@51.250.109.47:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=tls&fp=firefox&sni=plb.tunnelguard.ru&alpn=h2%2Chttp%2F1.1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b278fc13-9be7-4e21-90cb-cb52ac0e2469@plb.tunnelguard.ru:443?encryption=none&type=xhttp&mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=plb.tunnelguard.ru#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
