@@ -3,10 +3,12 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUGxPRkZqZG0yWjhPWUJWT25YaDFG@62.210.88.22:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNDVkYmY4NDJiY2U0YjY2@fr.vmagnum.win:57456#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxb3pnM2taUVU3ZEtiSVF3T2RLR1Q3@62.210.88.22:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vmess://eyJhZGQiOiIxODUuMjQ4LjMzLjE3MyIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJlM2NiNjg1ZS03ODQwLTQ1Y2ItOWQ2NC1iMjAyOGQ5YjYzNWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MTY0OTUsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4e3IiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?security=tls&type=ws&path=%2Fcahttingws&host=639011597654083000.tiguan-amsjb.info&sni=639011597654083000.tiguan-amsjb.info&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=1&host=639008791615856318.golf-amsix.info&type=ws&allowInsecure=1&sni=639008791615856318.golf-amsix.info#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&host=639004957474582477.tiguan-amsit.info&type=ws&sni=639004957474582477.tiguan-amsit.info#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=1&host=639008791615856318.golf-amsix.info&type=ws&allowInsecure=1&sni=639008791615856318.golf-amsix.info#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=/cahttingws&security=tls&encryption=none&insecure=1&host=639008791615847491.golf-amsix.info&type=ws&allowInsecure=1&sni=639008791615847491.golf-amsix.info#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?path=%2Fcahttingws&security=tls&encryption=none&insecure=1&host=639008791615847491.golf-amsix.info&type=ws&allowInsecure=1&sni=639008791615847491.golf-amsix.info#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@norman.ns.cloudflare.com:443?encryption=none&type=ws&host=639008791615847491.golf-amsix.info&path=%2Fcahttingws&security=tls&sni=639008791615847491.golf-amsix.info#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://b9c20ba9-da82-4082-a97a-977b4fbed67b@n-vip.hulkirani1.ir:80?encryption=none&type=ws&host=greencp3.global.ssl.fastly.net&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
