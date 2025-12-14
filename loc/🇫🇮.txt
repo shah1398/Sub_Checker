@@ -2,12 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://YWVzLTEyOC1nY206eTNvM3JhNmVkeTVuZmM2aHliMm4=@185.103.110.68:18283#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng=@65.21.243.22:31348#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://YWVzLTEyOC1nY206dGlqc2prM2l3emM2YjEwYXpiMHk=@77.83.247.206:18284#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vmess://eyJhZGQiOiJhLmNvbmZpZ25vci5zaXRlIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwiaWQiOiI0NmFkNWE0Zi1lM2U2LTRjNGItYmY0Ny0zMGM5YzYxNTk4YmQiLCJzY3kiOiJhdXRvIiwicG9ydCI6Ijc0NDMiLCJwcyI6ImhhbWVkcDcxOjrwn4er8J+HriJ9
+vmess://eyJhZGQiOiJhLmNvbmZpZ25vci5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIvLS0tSm9pbi0tLVBMQU5CX05FVC0tLUpvaW4tLS1QTEFOQl9ORVQtLS1Kb2luLS0tUExBTkJfTkVULS0tSm9pbi0tLVBMQU5CX05FVC0tLUpvaW4tLS1QTEFOQl9ORVQtLS1Kb2luLS0tUExBTkJfTkVULS0tSm9pbi0tLVBMQU5CX05FVC0tLUpvaW4tLS1QTEFOQl9ORVQiLCJpZCI6IjQ2YWQ1YTRmLWUzZTYtNGM0Yi1iZjQ3LTMwYzljNjE1OThiZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvLS0tSm9pbi0tLVBMQU5CX05FVC0tLUpvaW4tLS1QTEFOQl9ORVQtLS1Kb2luLS0tUExBTkJfTkVULS0tSm9pbi0tLVBMQU5CX05FVC0tLUpvaW4tLS1QTEFOQl9ORVQtLS1Kb2luLS0tUExBTkJfTkVULS0tSm9pbi0tLVBMQU5CX05FVC0tLUpvaW4tLS1QTEFOQl9ORVQiLCJwb3J0IjoiNzQ0MyIsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4euIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@45.131.185.234:443?&security=tls&fp=random&sni=ak.suoni.nyc.mn&type=ws&headerType=none&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@212.192.212.74:443/?type=ws&encryption=none&flow=&host=ak.suoni.nyc.mn&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=ak.suoni.nyc.mn&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://58562a69-76f0-499f-b02b-eb2c0170a3af@axe.soyet2j.ir:443?encryption=none&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&security=tls&alpn=h2&fp=chrome&sni=menu.gejeh683bm.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://5adbd5a5-2f2c-4b55-ad7b-31b347eceb8f@axe.soyet2j.ir:443?encryption=none&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&security=tls&alpn=h2&fp=chrome&sni=menu.gejeh683bm.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://4624643d-cfad-4860-9a61-9a2a191edd2a@axe.soyet2j.ir:443?encryption=none&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&security=tls&alpn=h2&fp=chrome&sni=menu.gejeh683bm.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
