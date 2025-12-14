@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://d00d13b2-5cd3-4648-afa9-807983647ed8@144.31.3.129:443?security=none&type=ws&path=%2F&encryption=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://eb7c7631-6c7c-4f34-a65a-974b4565d01d@poland.geodema.network:8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=music.yandex.ru&sid=5540e44a53c3d01c#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
