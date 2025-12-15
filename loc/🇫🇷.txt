@@ -2,11 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOdG53cnJqQ3hUYnJRb3JuZHVQNk5J@62.210.88.22:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvM3NpSndBdU9IcjZ1Mkpxc0pSVjRj@62.210.88.22:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vmess://eyJhZGQiOiIxODUuMjQ4LjMzLjE3MyIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJiMmRhOTkyMC1iMGE3LTQzNTQtOWUyNi0zODMzYWI4ZDAwZDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MTY0OTUsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4e3IiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0
+vmess://eyJhZGQiOiIxODUuMjQ4LjMzLjE3MyIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJlMWNjMjZiMy1kZjBiLTQ3N2ItYWZiMC01MzY1OWEyNWU5NzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6MTY0OTUsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4e3IiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053/?type=ws&encryption=none&flow=&host=fr.api-music-fa.com&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=fr.api-music-fa.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=chrome&type=ws&allowInsecure=0&sni=fr.api-music-fa.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://e4dbde8d-b194-4a64-afe0-093ffd258e8e@69.84.182.13:443?&security=tls&fp=chrome&sni=fr-1-fr-1.aiopen.sbs&type=ws&headerType=none&host=fr-1-fr-1.aiopen.sbs&path=%2Fkbjc%2Ffr1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?encryption=none&type=ws&host=fr.api-music-fa.com&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=fr.api-music-fa.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://b727aa5e-27bd-4fe5-bd95-7db682992637@hajimamadvpnjoinsho.fast199.hosting-ip.com:80?encryption=none&type=ws&host=downloadha.global.ssl.fastly.net&path=%2FJoin----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
