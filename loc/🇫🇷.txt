@@ -4,11 +4,10 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VWNHWDFFdVY2TnN0bmZUM0xKZWRh@62.210.88.22:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvM3NpSndBdU9IcjZ1Mkpxc0pSVjRj@62.210.88.22:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=chrome&type=ws&allowInsecure=0&sni=fr.api-music-fa.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053/?type=ws&encryption=none&flow=&host=fr.api-music-fa.com&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=fr.api-music-fa.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?security=tls&type=ws&path=%2FJ5aLQOY1R9ONWYCM&host=fr.api-music-fa.com&sni=fr.api-music-fa.com&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_61cbbe6@172.66.40.99:443?path=%2Fvless%3Ftelegram-id-v2box-v2%2Fwww.speedtest.net%3A443%3Fed%3D443&security=tls&encryption=none&type=ws&sni=afreca.looloolooloo.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://I_Love_🇵🇸_SSHMax_61cbbe6@172.66.40.99:443?encryption=none&type=ws&path=%2Fvless%3Ftelegram-id-v2box-v2%2Fwww.speedtest.net%3A443%3Fed%3D443&security=tls&sni=afreca.looloolooloo.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://b727aa5e-27bd-4fe5-bd95-7db682992637@hajimamadvpnjoinsho.fast199.hosting-ip.com:80?encryption=none&type=ws&host=downloadha.global.ssl.fastly.net&path=%2FJoin----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN---Join----HAJIMAMADVPN&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?encryption=none&type=ws&host=fr.api-music-fa.com&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=fr.api-music-fa.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://I_Love_%F0%9F%87%B5%F0%9F%87%B8_SSHMax_61cbbe6@172.66.40.99:443?path=%2Fvless%3Ftelegram-id-v2box-v2%2Fwww.speedtest.net%3A443%3Fed%3D443&security=tls&encryption=none&type=ws&sni=afreca.looloolooloo.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
