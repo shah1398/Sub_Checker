@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@uaeemar123.vtuix.ir:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B7
+vless://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@uaeemar123.vtuix.ir:7033?encryption=none&type=grpc&serviceName=7034vless&security=reality&fp=firefox&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&sni=telewebion.com&sid=16b6cda7ab793526#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B7
