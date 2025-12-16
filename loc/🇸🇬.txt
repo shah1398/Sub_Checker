@@ -4,6 +4,6 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@95.173.218.203:990#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://e2722c0fb503f8a592436c12bce0509a@160.16.150.76:3145?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.196.59:1507?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://7519638e-b786-4279-baaf-8501548caf1f@143.198.222.68:42409?encryption=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://e2722c0fb503f8a592436c12bce0509a@160.16.150.76:3145?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@20.247.137.183:443?path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&encryption=none&host=ak.suoni.nyc.mn&fp=chrome&type=ws&sni=ak.suoni.nyc.mn#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC

@@ -3,5 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozSUpqM1BGZ2x2N1VKTmtYOXVnUjU5@94.131.123.236:5223#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@ns1.cloudflare.com:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@ns1.cloudflare.com:443?encryption=none&type=ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&path=%2Fws&security=tls&fp=chrome&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://4ea236b3-c40b-42df-9cd4-f9b76dca5ab4@ns1.cloudflare.com:443?security=tls&type=ws&path=%2Fws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
