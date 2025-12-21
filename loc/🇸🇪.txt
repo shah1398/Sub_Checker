@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 trojan://tRxkV-KcTuypP%3D8Yj6Bgd@70.34.220.34:25599/?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
