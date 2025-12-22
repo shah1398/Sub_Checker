@@ -3,5 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://bia-to---v2rayng_hub@172.66.40.99:443?mode=multi&security=tls&encryption=none&alpn=http/1.1&authority=lat.looloolooloo.com&fp=chrome&allowinsecure=0&type=grpc&serviceName=%2F%40v2rayng_hub%2F%40v2rayng_hub%2F%40v2rayng_hub%2F%40v2rayng_hub%2F%40v2rayng_hub%2Fwww.speedtest.net%3A443%3Fed%3D443&sni=lat.looloolooloo.com#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://bia-to---v2rayng_hub@172.66.40.99:443?encryption=none&type=grpc&serviceName=%2F%40v2rayng_hub%2F%40v2rayng_hub%2F%40v2rayng_hub%2F%40v2rayng_hub%2F%40v2rayng_hub%2Fwww.speedtest.net%3A443%3Fed%3D443&security=tls&alpn=http%2F1.1&fp=chrome&sni=lat.looloolooloo.com#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB

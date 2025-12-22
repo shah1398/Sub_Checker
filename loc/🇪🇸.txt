@@ -4,4 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://b64b2e74-e18c-4214-952d-dd58aef150b5@tunnyl.ru:8443?type=tcp&encryption=none&security=reality&pbk=B7oEk3bsUoMrpkpIcTsCQnZour3qfbgUuhOk9aWWbFk&fp=chrome&sni=google.com&sid=b88841a3&spx=%2F&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
