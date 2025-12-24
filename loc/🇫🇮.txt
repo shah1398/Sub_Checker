@@ -2,19 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc=@64.137.109.212:44884#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vmess://eyJhZGQiOiIxNTcuMTgwLjEyMC4xOTQiLCJhaWQiOiIwIiwiaWQiOiI3M2ZlZWVkNi05YTQwLTQ1YjAtYTI2ZC04NDc3MGY1ZjA1ZmQiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiNDAxMDAiLCJwcyI6ImhhbWVkcDcxOjrwn4er8J+HriIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ
-vmess://eyJ2IjoiMiIsImFkZCI6IjE1Ny4xODAuMTIwLjE5NCIsInBvcnQiOjQwMTAwLCJpZCI6IjczZmVlZWQ2LTlhNDAtNDViMC1hMjZkLTg0NzcwZjVmMDVmZCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJwcyI6ImhhbWVkcDcxOjrwn4er8J+HriJ9
-vless://4d7a559b-6379-41a7-9e51-41ef759846aa@158.160.197.118:443?security=reality&encryption=none&pbk=TrAxIFIhSCc4C5IWnGvvAs2cSD_mVag1MlTCJPeLkGg&headerType=none&fp=chrome&spx=/---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=b9ceed646f470d2d#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4euIiwiYWRkIjoiMTU3LjE4MC4xMjAuMTk0IiwicG9ydCI6NDAxMDAsImlkIjoiNzNmZWVlZDYtOWE0MC00NWIwLWEyNmQtODQ3NzBmNWYwNWZkIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=/&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&security=none&type=ws&host=cloudflare.com&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&sid=c2fa&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://286f184e-7f17-4f90-83c4-85cd0ef753a9@axe.soyet2j.ir:443?security=tls&type=ws&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&host=menu.gejeh683bm.ir&alpn=h2&sni=menu.gejeh683bm.ir&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&security=none&type=ws&host=cloudflare.com&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=c2fa#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?encryption=none&type=ws&host=cloudflare.com&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://778b0116-498d-4432-aa07-746545271368@axe.soyet2j.ir:443?encryption=none&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&security=tls&alpn=h2&fp=chrome&sni=menu.gejeh683bm.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://286f184e-7f17-4f90-83c4-85cd0ef753a9@axe.soyet2j.ir:443?encryption=none&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&security=tls&alpn=h2&fp=chrome&sni=menu.gejeh683bm.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://5f132f14-9182-4bb6-b05c-26fdb6e3e398@axe.soyet2j.ir:443?encryption=none&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&security=tls&alpn=h2&fp=chrome&sni=menu.gejeh683bm.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://78dbbe22-96ef-4902-89d0-4cce76fc11a2@axe.soyet2j.ir:443?encryption=none&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&security=tls&alpn=h2&fp=chrome&sni=menu.gejeh683bm.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
