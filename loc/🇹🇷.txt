@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMdVJMaWYxUHRpdmZ0MUdXbjNKUFdx@45.89.52.98:10826#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
