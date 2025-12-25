@@ -4,3 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppRzFuUzlNTWdzMG9FSk05ZzFZVGds@94.131.123.236:5223#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://f05818d6-d6cf-f478-ff10-60acef14b7fe@turunc.sefrtasad.com:1220?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=connectivitycheck.gstatic.com&fp=firefox&pbk=94RJrDMgno5DI1N5UznuLh1KGLFMwccwMqOm2iMAsyw&sid=ad916a3b743915d1#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
