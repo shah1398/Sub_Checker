@@ -3,15 +3,16 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA%3D%3D@103.75.118.125:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.53.187:3169?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.117.182:3093?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.67.215:3093?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.242.183:3093?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.87.174:3093?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1IiwiYWRkIjoidDEuNjIwNzIwLnh5eiIsInBvcnQiOiI4NDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InQxLjYyMDcyMC54eXoiLCJ0bHMiOiJ0bHMifQ
 vless://2c487d9d-25a1-4b79-aed1-086b8c3082ca@178.239.124.30:56482?security=reality&encryption=none&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloudcircus.jp#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://b52fac66-fd92-47ae-b1f6-332aa1c353d9@57.180.50.81:37390?path=%2Fxxhjphome&security=tls&encryption=none&insecure=0&host=xxh.ipipip.im&type=ws&allowInsecure=0&sni=xxh.ipipip.im#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://b52fac66-fd92-47ae-b1f6-332aa1c353d9@57.180.50.81:37390?path=%2Fxxhjphome&security=tls&encryption=none&host=xxh.ipipip.im&type=ws&sni=xxh.ipipip.im#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://ebd8539d-e249-4a39-8f90-e8585e8cc35e@116.80.44.144:27724?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=reality&type=tcp&sni=www.yahoo.co.jp&fp=chrome&flow=xtls-rprx-vision&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&encryption=none#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://b52fac66-fd92-47ae-b1f6-332aa1c353d9@57.180.50.81:37390?encryption=none&type=ws&host=xxh.ipipip.im&path=%2Fxxhjphome&security=tls&sni=xxh.ipipip.im#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://aa7f42cc-616f-4550-9a87-4b85bb409121@139.162.83.82:32225?encryption=none&type=ws&host=vless3.datatestvless.click&path=%2F%3Fed%3D2560&security=tls&sni=vless3.datatestvless.click#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
