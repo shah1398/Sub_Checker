@@ -4,5 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA==@213.159.67.124:443#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZSGFsRHZQMXo1UnJpVTZsNExuZ0tp@145.249.109.108:18740#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
