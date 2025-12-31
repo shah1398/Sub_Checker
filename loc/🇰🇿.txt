@@ -4,3 +4,4 @@
 
 vless://ddffda27-8c5f-4f53-8450-4d11a1e0b368@103.106.3.198:4443?security=reality&encryption=none&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=aa7e96542880027a#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
+vless://a4b82845-20ef-40ef-b3e1-41060dacdea8@zula.ir:8443?encryption=none&type=ws&host=kz-1-ss8.rayan-dns.dpdns.org&path=%2Fvless%2F&security=tls&sni=kz-1-ss8.rayan-dns.dpdns.org#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
