@@ -6,4 +6,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRnFaSDFjSXc1alBSQ2hXeGxYMzZG@62.133.63.154:
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://513f699d-ed8c-4a47-a225-0736fc2213e7@ns1.cloudflare.com:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pArSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://513f699d-ed8c-4a47-a225-0736fc2213e7@bitpay.com:443?security=tls&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://513f699d-ed8c-4a47-a225-0736fc2213e7@bitpay.com:443?encryption=none&type=ws&host=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg&path=%2Fws&security=tls&fp=chrome&sni=rAyAn-cOnFiG-tr-1.pAriSa.dPdNs.oRg#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
