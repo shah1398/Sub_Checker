@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://3fb3ee10-5461-4f8e-bd5e-2922a51cc4ba@185.77.231.80:28298?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=9d32c1#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://06babfd1-1af2-4db4-a485-cdf404ce80a9@62.192.174.198:47256?security=reality&encryption=none&pbk=HkLK62c3szw51gYtORRnPlO0v6kxOSd_aCd0J4rTKzo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.unicreditbank.ru&sid=9d32c1#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
-vless://05071212-5966-430d-a53b-d4472581ddc8@lv4.fastdbn.com:5001?encryption=none&type=grpc&serviceName=downloads.3cx.com&security=reality&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sni=api.3cx.com#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=lcJ0LSh015XRfz5-7wB_hln3-bq5ZatFgPugSUCrdR0&sid=3c#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB

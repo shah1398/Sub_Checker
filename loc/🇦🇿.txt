@@ -2,7 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?encryption=none&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&type=tcp&encryption=none&note=@freeOnlineVPN#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
 vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
 vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?encryption=none&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BF
