@@ -3,4 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg==@5.182.37.87:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
 vless://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
+vless://854eea7a-c834-4f62-9e17-ae63d1086f36@ro1.instavpn.ru:443?security=reality&type=tcp&sni=tradingview.com&fp=chrome&sid=868419504747f6de&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%B4
