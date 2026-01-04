@@ -2,19 +2,26 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@62.100.205.100:990#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppTVNMM3I1QUc1U2VIWkJOUGY5YThk@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSVh6aDg1T1BvYWFBU3ZYcnBSbDUw@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@62.100.205.100:990#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://f0b261f2-132d-48f9-a896-f2b7d879182b@norman.ns.cloudflare.com:443?&security=tls&sni=639029621350078622.fit-amsjn.info&type=ws&headerType=none&host=639029621350078622.fit-amsjn.info&path=%2Faxcegbws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://92028bf3-6ca2-4bdd-a570-eacfbc851657@57.129.137.222:443?path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&encryption=none&host=joss.gvpn2.web.id&fp=randomized&type=ws&sni=joss.gvpn2.web.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=de9.mediakit-ozon.ru#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@104.21.96.1:443?encryption=none&security=tls&sni=DIP.Amperes.Workers.DEV&alpn=http/1.1&type=ws&host=dip.amperes.workers.dev&path=/assets&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://b28f6dd5-2998-47f9-8ca1-4d9f0d785d2e@57.129.137.222:443?path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&encryption=none&host=joss.gvpn2.web.id&fp=randomized&type=ws&sni=joss.gvpn2.web.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://92028bf3-6ca2-4bdd-a570-eacfbc851657@57.129.137.222:443?path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&encryption=none&host=joss.gvpn2.web.id&fp=randomized&type=ws&sni=joss.gvpn2.web.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://98895157-4ded-4eeb-a22c-058ed62bdac3@gb01-vlr01.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://94e25e2b-ffc8-453d-a08c-1f5c3c249755@gbr-0001-xr.packet-drop-society.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=86e999a2cdc2#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039?security=tls&type=ws&path=%2F&sni=de9.mediakit-ozon.ru&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://f0b261f2-132d-48f9-a896-f2b7d879182b@norman.ns.cloudflare.com:443?&security=tls&sni=639029621350078622.fit-amsjn.info&type=ws&headerType=none&host=639029621350078622.fit-amsjn.info&path=%2Faxcegbws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://6e95243c-544c-4770-b2cd-a5c5cc10211e@104.21.96.1:443/?type=ws&encryption=none&host=dip.amperes.workers.dev&path=%2Fassets%3Fed%3D2560&eh=Sec-WebSocket-Protocol&security=tls&sni=DIP.Amperes.Workers.DEV&alpn=http%2F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&type=ws&host=google.com&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://1cf0ad1e-060b-42f9-b57d-eb0fe8ffbbe8@cloudflare-dl.byoip.top:2096?encryption=none&type=ws&host=yinguo.shuiwudengli.dpdns.org&path=%2F&security=tls&sni=yinguo.shuiwudengli.dpdns.org#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://1b07b61e-7c71-75fa-f97d-f4a82c66cfb5@152.114.193.158:2039?encryption=none&type=ws&path=%2F&security=tls&fp=chrome&sni=de9.mediakit-ozon.ru#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://92028bf3-6ca2-4bdd-a570-eacfbc851657@57.129.137.222:443?encryption=none&type=ws&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&fp=randomized&sni=joss.gvpn2.web.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://f0b261f2-132d-48f9-a896-f2b7d879182b@norman.ns.cloudflare.com:443?encryption=none&type=ws&host=639029621350078622.fit-amsjn.info&path=%2Faxcegbws&security=tls&sni=639029621350078622.fit-amsjn.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://b28f6dd5-2998-47f9-8ca1-4d9f0d785d2e@57.129.137.222:443?encryption=none&type=ws&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&fp=randomized&sni=joss.gvpn2.web.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://93106d42-7094-474d-bca1-e4961484ad6a@46.101.78.182:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://93106d42-7094-474d-bca1-e4961484ad6a@165.22.118.24:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://876ca920-61ec-421f-db17-1326d792f5ab@178.62.16.247:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://92028bf3-6ca2-4bdd-a570-eacfbc851657@57.129.137.222:443?encryption=none&type=ws&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F57.129.137.222%3D443&security=tls&fp=randomized&sni=joss.gvpn2.web.id#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://1cf0ad1e-060b-42f9-b57d-eb0fe8ffbbe8@cloudflare-dl.byoip.top:2096?encryption=none&type=ws&host=yinguo.shuiwudengli.dpdns.org&path=%2F&security=tls&sni=yinguo.shuiwudengli.dpdns.org#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?encryption=none&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1&security=tls&fp=chrome&sni=ovhwuxian.pai50288.uk#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://876ca920-61ec-421f-db17-1326d792f5ab@178.128.175.166:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://876ca920-61ec-421f-db17-1326d792f5ab@159.65.82.90:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://93106d42-7094-474d-bca1-e4961484ad6a@209.97.189.5:443?type=grpc&encryption=none&serviceName=&authority=&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
