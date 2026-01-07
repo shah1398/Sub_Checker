@@ -4,10 +4,13 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@95.173.218.203:990#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:3901?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:3901?allowInsecure=1&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:3901?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vmess://eyJhZGQiOiIxNTAuMTA5LjExLjE5MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiNzExOGRjYy1hMjM0LTQ3ODQtZTQ4Ny00MDY0YzI5MjA4MDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+vmess://eyJhZGQiOiIxNTAuMTA5LjExLjE5MyIsInYiOiIyIiwicHMiOiJoYW1lZHA3MTo68J+HuPCfh6wiLCJwb3J0Ijo4MCwiaWQiOiJiNzExOGRjYy1hMjM0LTQ3ODQtZTQ4Ny00MDY0YzI5MjA4MDgiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0
 vmess://eyJhZGQiOiIxNTAuMTA5LjExLjE5MyIsImlkIjoiYjcxMThkY2MtYTIzNC00Nzg0LWU0ODctNDA2NGMyOTIwODA4IiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HuPCfh6wifQ
+vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiaWQiOiIyOTBjYzY5MS0zYWM2LTQzODctOThhMS0yNWM4ZWI4Y2EyZWEiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwiYWxwbiI6IiIsImZwIjoiIiwic25pIjoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIn0
+vless://695b11c7-6bec-927c-f1ea-f13683c557d6@bestcf.030101.xyz:2053?encryption=none&type=ws&host=ss.2026.accesscam.org&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&fp=chrome&sni=ss.2026.accesscam.org#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
