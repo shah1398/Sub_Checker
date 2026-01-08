@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA%3D%3D@45.12.144.18:443#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BA
+vless://0f66d466-fd01-404e-b813-05e62d9e1202@141.227.168.183:7005?security=reality&type=tcp&sni=refersion.com&fp=firefox&pbk=Cz-qN4FxgYUmrKUyots3FCe0tHP9wvK-1KNZYaLyCnQ&encryption=none#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BA
