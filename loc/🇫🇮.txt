@@ -3,11 +3,11 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMzZUSWk0QzNOSDZPbG4zVGRHeWpn@fl3.cowjuice.me:9443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?security=reality&encryption=none&pbk=j07H9kYduVQkwjQw-7PW0um-0FUeCNe9J70oLv8I03I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=626617b8f5c8#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://7b148add-4438-426e-a583-50f11e7bd0e4@65.109.178.83:443?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?mode=gun&security=reality&encryption=none&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&fp=chrome&type=grpc&sni=hel1.hitori.cloud&sid=e9d19fd1ca5ca23c#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?security=reality&encryption=none&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=9a#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://57a5f6b3-ea58-4d4e-ad9c-a9830f148184@93.152.207.254:45884?security=reality&encryption=none&pbk=_GoR9cR6JOUmQ1PM-s2GsHiy6OuIo1Ek1a7lhNKkvj4&host=%2F%3F&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=9a#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://987df594-5e10-4b35-ae72-aabbe9773fca@87.239.252.186:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.mozilla.org&fp=chrome&security=reality&pbk=uf64ptbhMNcLWuwEfOzQB7qgn725h6w9DmKRteQQPwg&sid=855f26b88b3f#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://7b148add-4438-426e-a583-50f11e7bd0e4@65.109.178.83:443?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&sni=hel1.hitori.cloud&sid=e9d19fd1ca5ca23c#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?security=reality&encryption=none&pbk=j07H9kYduVQkwjQw-7PW0um-0FUeCNe9J70oLv8I03I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=626617b8f5c8#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
