@@ -4,16 +4,15 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjZTFkZmJlZmQwYWRkYzlj@45.135.228.135:11201#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.150.76:544?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.70.180:544?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.87.174:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://61d8077bfb174e171b8283f155a555ad@153.121.38.213:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://61d8077bfb174e171b8283f155a555ad@153.121.38.213:3076?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://61d8077bfb174e171b8283f155a555ad@153.121.45.139:3901?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://61d8077bfb174e171b8283f155a555ad@153.121.45.139:3076?allowInsecure=1&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://61d8077bfb174e171b8283f155a555ad@153.121.45.139:3076?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.70.180:544?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.150.76:544?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.87.174:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.72.33:3076?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.38.213:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.38.213:3076?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.38.213:3076?allowInsecure=1&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?encryption=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://bb6e0719-3d1a-4896-bddc-ddc86d682609@104.16.122.4:8080?encryption=none&type=ws&host=support.sslzoom.us&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://e258977b-e413-4718-a3af-02d75492c349@43.160.253.51:443/?type=ws&encryption=none&flow=&host=ww1.sgxaniu.qzz.io&path=%2F%3Fed%3D2560&security=tls&sni=ww1.sgxaniu.qzz.io&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
