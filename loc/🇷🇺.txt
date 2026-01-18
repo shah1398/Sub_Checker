@@ -3,5 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://94f729b1-5e1c-474f-a952-b8816a04e2fc@195.2.76.224:48868?security=reality&encryption=none&pbk=QU6XzGL-1O93-UxkJYiV364sy30S5bI5EOahJL2blnE&headerType=none&fp=chrome&type=tcp&sni=apple.com&sid=f2e878#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://a2afaf73-dc35-45a0-95e1-ba754d710c8d@89.169.188.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=qq&security=reality&pbk=Dcy5P5rKN1GmV2KHVRzWpVmX4hhZDnt4dVUdTBt2Wjs&sid=#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://7fc953d6-ae75-46fb-a970-10b57d513487@45.139.26.152:7443?security=reality&encryption=none&pbk=BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=fd88bd27db4cc661#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
