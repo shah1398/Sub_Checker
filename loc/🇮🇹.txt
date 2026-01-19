@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://9c4dd65a-7158-4db7-bcef-4b44fb9941f0@78.159.247.74:5444/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://3f8d0f74-6d23-4427-9e96-71f97dce2ad9@it1.miyazono-kaori.com:443?security=reality&encryption=none&pbk=npQlr1_mIEPLpkAshUK-OpcHNdePcFGdsHIdsh4IFFU&headerType=none&fp=ios&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.windtre.it&sid=11b34915#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
