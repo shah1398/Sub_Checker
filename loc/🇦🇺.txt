@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6bwn4e6IiwiYWRkIjoic3k0LjYyMDcyMC54eXoiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InN5NC42MjA3MjAueHl6IiwidGxzIjoidGxzIn0
+vless://eb7a89bb-adeb-4a4b-9104-772c42fbeb1e@cdn.halazzon.ir:443?path=%2FpV67LRFs428xHke56mDQ&security=tls&alpn=http%2F1.1&encryption=none&host=Sydney1p.FaraSorat.net&fp=chrome&type=ws&sni=Free-11265213.FaraSorat.Net#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
