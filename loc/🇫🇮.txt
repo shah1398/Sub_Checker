@@ -3,11 +3,9 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ficdn1.suio.me#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@65.109.178.83:443?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.156:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn10.suio.me&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn19.suio.me&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn1.suio.me&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?encryption=none&type=httpupgrade&host=hiifof.parsvpskm.fun&path=%2F%3Fed%3D2095&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
