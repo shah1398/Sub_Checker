@@ -4,6 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11201#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYzgxZDVlYjFlZTk2ZTFl@46.250.253.50:10010#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:1933?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6/wn4e1IiwiYWRkIjoidDEuNjIwNzIwLnh5eiIsInBvcnQiOiI4NDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InQxLjYyMDcyMC54eXoiLCJ0bHMiOiJ0bHMifQ
-vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?security=reality&encryption=none&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f0#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5

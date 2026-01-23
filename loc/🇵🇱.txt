@@ -2,9 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://179e3e72-59b4-4f9d-8d46-56abd9a03520@y2.drshoayb.top:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cloud.drshoayb.top#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://00c49863-6d15-4289-9229-841ee5f7868c@51.250.109.47:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDcz@51.83.249.182:11201#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://00c49863-6d15-4289-9229-841ee5f7868c@51.250.99.190:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://179e3e72-59b4-4f9d-8d46-56abd9a03520@y2.drshoayb.top:443?encryption=none&type=ws&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=cloud.drshoayb.top#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://00c49863-6d15-4289-9229-841ee5f7868c@51.250.109.47:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://71031aa1-067e-425e-97f5-37875f838a10@51.250.42.73:443?security=reality&encryption=none&pbk=l4azftcUwR_aMZbzpUTQN_NbsYCVlnQbMhGdhzcnMws&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=c2ec7bbfdbbad490#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

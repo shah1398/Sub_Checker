@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@SPAIN.TORPROSPEED.IR:587?security=reality&encryption=none&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&headerType=none&fp=chrome&spx=/&type=tcp&sni=excoino.com&sid=916e8258c4a01b02#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8

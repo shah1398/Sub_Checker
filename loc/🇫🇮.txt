@@ -5,7 +5,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://6c6b9050-1de6-44fc-8b33-ff121951f054@chatgpt.com:443?path=%2Fgame&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cf.3586328.xyz&fp=chrome&type=ws&sni=cf.3586328.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&sni=hel1.hitori.cloud&sid=e9d19fd1ca5ca23c#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://48c43abe-ac04-481e-85c7-5c9a85725685@104.16.53.11:2082?encryption=none&type=httpupgrade&host=fInLaND.ziRakOmaMle.coM&path=%2Fspeedtest.net%2Fzirakomamle.com%3Fed%3D2048&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&sni=hel1.hitori.cloud&sid=e9d19fd1ca5ca23c#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://6c6b9050-1de6-44fc-8b33-ff121951f054@chatgpt.com:443?encryption=none&type=ws&host=cf.3586328.xyz&path=%2Fgame&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=cf.3586328.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?encryption=none&type=httpupgrade&host=hiifof.parsvpskm.fun&path=%2F%3Fed%3D2095&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
