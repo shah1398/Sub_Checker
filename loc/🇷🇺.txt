@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://4dcfab42-4703-07d0-b56d-0965380a532e@morgentop.ru:52006?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://4dcfab42-4703-07d0-b56d-0965380a532e@morgentop.ru:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@194.147.114.151:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=KBtor6ap1Ml0bjcI_8UgdHhZYVYNOLuuYsuXsQUNGj0&sid=#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
