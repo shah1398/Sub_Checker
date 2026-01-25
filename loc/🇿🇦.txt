@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vmess://eyJhZGQiOiJib29nZXltYW4uY2hvbWJhLnRlY2giLCJhaWQiOiIwIiwiaG9zdCI6ImJvb2dleW1hbi5jaG9tYmEudGVjaCIsImlkIjoiOWI2YTg3ZWQtOTk0OS00OWY2LWFiNmYtY2Y5YWIxNTE3N2Q3IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiaGFtZWRwNzE6OvCfh7/wn4emIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+vless://0f3422ec-93d4-4dc5-91e9-eb1aef2da9ad@ams.asreabi.ir:443?encryption=none&type=ws&host=telewebion.com&path=%2Fmedia.steampowered.com%3Fed%3D443&security=none#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
