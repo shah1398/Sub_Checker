@@ -4,6 +4,4 @@
 
 vmess://eyJhZGQiOiI4OS4zMS4xMjAuMTkyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQ0NTM3NTk1LTljY2MtNGI4My04OTM2LTVmOWFkMzIyOTAxOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJoYW1lZHA3MTo68J+HpvCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
 vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?path=%2Fws&security=none&encryption=none&host=minoomizban.ir&type=ws#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?type=ws&path=%2Fws&host=minoomizban.ir&security=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
-vless://277218be-5c92-46f0-8fc0-eb0899214ad0@newde.asreabi.ir:443?encryption=none&type=ws&path=%2Fmedia.steampowered.com%3Fed%3D443&security=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
 vless://efd90743-5f99-4c63-b0c8-8ee84cf30150@db.minoosell.ir:80?encryption=none&type=ws&host=minoomizban.ir&path=%2Fws&security=none#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%AA
