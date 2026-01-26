@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+vless://60a2998c-cd85-562e-a3fd-396e4925dd3a@dns1.turboo-server.space:8880?type=ws&security=none&host=turboo.turbooo-server.com&path=/turboo#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@Chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=market.chepschasb.shop&fp=chrome&type=ws&allowInsecure=0&sni=market.chepschasb.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&sni=hel1.hitori.cloud&sid=e9d19fd1ca5ca23c#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?encryption=none&type=ws&host=market.chepschasb.shop&path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&fp=chrome&sni=market.chepschasb.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?encryption=none&type=ws&host=dev.twistsparrow.xyz&path=%2F&security=tls&fp=chrome&sni=dev.twistsparrow.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE

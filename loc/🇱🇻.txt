@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@lv.vpnsparta.pro:57456#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
 vless://ec7f2b6a-d627-40ea-a017-36052c4ba426@lv.fastdbn.com:5001?encryption=none&security=reality&sni=services.3cx.com&fp=chrome&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&type=grpc&authority=downloads.3cx.com&serviceName=downloads.3cx.com&mode=gun#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
