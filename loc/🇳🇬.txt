@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://0f3422ec-93d4-4dc5-91e9-eb1aef2da9ad@ams.asreabi.ir:443?encryption=none&type=ws&host=telewebion.com&path=%2Fmedia.steampowered.com%3Fed%3D443&security=none#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.255.123.166:990#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%AC
