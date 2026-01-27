@@ -3,11 +3,10 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno=@media.mothyleela.cfd:40521#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?security=tls&type=ws&path=%2F&host=dev.twistsparrow.xyz&sni=dev.twistsparrow.xyz&fp=chrome&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&encryption=none&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@172.64.152.23:443?path=%2F130.162.193.183%3A15401&security=tls&encryption=none&alpn=http/1.1&host=market.chepschasb.shop&fp=chrome&type=ws&sni=market.chepschasb.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?encryption=none&type=ws&host=dev.twistsparrow.xyz&path=%2F&security=tls&fp=chrome&sni=dev.twistsparrow.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://77c492e6-7bff-4ce9-b76d-6e55686a577b@free1.aattaash.com:2087?encryption=none&type=ws&path=%2F&security=tls&fp=chrome&sni=finland2.aattaash.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://4c7f6084-ab3c-4515-a69d-fb6f5c0c08ae@chatgpt.com:443?encryption=none&type=ws&host=market.chepschasb.shop&path=%2F130.162.193.183%3A15401&security=tls&alpn=http%2F1.1&fp=chrome&sni=market.chepschasb.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://48c43abe-ac04-481e-85c7-5c9a85725685@104.16.53.11:2082?encryption=none&type=httpupgrade&host=fInLaND.ziRakOmaMle.coM&path=%2Fspeedtest.net%2Fzirakomamle.com%3Fed%3D2048&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://b26c5c07-87db-424a-92da-63fd51646fa3@104.18.32.47:443?encryption=none&type=ws&path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=ki.ar-panelar.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.18.32.47:443?encryption=none&type=ws&host=dev.twistsparrow.xyz&path=%2F&security=tls&fp=chrome&sni=dev.twistsparrow.xyz#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE

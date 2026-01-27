@@ -3,6 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4e3IiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6IjM5NjUxIiwiaWQiOiJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIn0
-vless://41563f48-2378-43dc-9938-47f211c58ff7@pypi.org:80?path=%2Fdownload&security=none&encryption=none&host=sAbzNeT.glObal.sSl.fasTly.nEt&type=ws#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://bbbddf3f-a747-47a9-b37f-30a2dd2dcf2f@iran.zone-server-irani.ir:443?encryption=none&type=ws&host=poronyhf.sadafspace.com&path=%2Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&sni=poronyhf.sadafspace.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://d394a02d-3c87-437e-9c9e-f75f20e919d2@cd.abriabri.ir:443?encryption=none&type=ws&host=abriabri.abriabri.ir&path=%2FAbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---AbriVPN---&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&sni=abriabri.abriabri.ir#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
