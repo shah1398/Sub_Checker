@@ -2,11 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA==@45.15.126.19:443#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 trojan://42bbf526-5530-470a-aeec-3b919b21c58d@176.105.253.102:8443/?type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560&security=tls&sni=0000.hkvip.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-trojan://humanity@208.103.161.110:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://5eb9b54d-3c4e-4588-97f7-e53fe3e92c90@nodejs.org:80?path=/?ed&security=none&encryption=none&host=GLOrioUs-aRriVALHCRtzt96gb.sPORtlANd.cOMPAnY.&type=ws#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://99e7b9d9-1b4e-40fb-91a3-a4ae61001922@marz.gizman.sbs:8443?encryption=none&type=ws&path=%2F&security=tls&sni=marz.fandogh.sbs#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://5eb9b54d-3c4e-4588-97f7-e53fe3e92c90@nodejs.org:80?encryption=none&type=ws&host=GLOrioUs-aRriVALHCRtzt96gb.sPORtlANd.cOMPAnY.&path=%2F%3Fed&security=none#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@151.115.123.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1

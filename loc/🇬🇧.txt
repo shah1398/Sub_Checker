@@ -2,18 +2,15 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08%3D@57.129.140.88:8388#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5M1Nvd3FVa3J0MWNibTQ4N2c3NEFj@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5YmZlZTEzODhlOTYwNTM3@51.89.117.154:11201#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTA2MGE4ZGUzNDY3MTc0@57.128.190.212:10013#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08%3D@57.129.140.88:8388#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://42bbf526-5530-470a-aeec-3b919b21c58d@185.245.83.41:31687?type=ws&host=0000.hkvip.ip-ddns.com&path=%2F%3Fed%3D2560&security=tls&sni=0000.hkvip.ip-ddns.com#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwiYWRkIjoiNTcuMTI5LjEzMi4yMjMiLCJwb3J0IjoiODAiLCJpZCI6ImEyNWNiZjExLTI5MDgtNGExYi1hM2E4LTlhNTcxNzc3ZGNhMyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJnb29nbGUuY29tIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ
+vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://0743da7a-54b3-482e-9f4a-2803f7ff1b87@104.17.162.123:8080?encryption=none&type=ws&host=meta.bestcoffeshop.top&path=%2F%3Fed%3D2048&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@104.19.37.10:443?encryption=none&type=ws&host=free.aliamini.net&path=%2F%40AlaedinVPN&security=tls&sni=free.aliamini.net#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://a5f7e339-f269-4967-8686-d6e3a0ebe22c@alex007.b-cdn.net:443?encryption=none&type=ws&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=alex007.b-cdn.net#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://937f8940-ad8a-409f-93c3-4d6249af628f@uk2.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bp.com&fp=firefox&security=reality&pbk=QdYs12kmf0mAXNOEPgMpLN5dbZUlgvRK2zCqynOmqBk&sid=20#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://937f8940-ad8a-409f-93c3-4d6249af628f@uk1.miyazono-kaori.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bp.com&fp=ios&security=reality&pbk=_dsOu_vxEU7pY3sIeGJxIpR0Ac2KoqIyBor2Bx0CwGA&sid=d923#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://0743da7a-54b3-482e-9f4a-2803f7ff1b87@104.17.162.123:8080?encryption=none&type=ws&host=meta.bestcoffeshop.top&path=%2F%3Fed%3D2048&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://a5f7e339-f269-4967-8686-d6e3a0ebe22c@alex007.b-cdn.net:443?encryption=none&type=ws&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=alex007.b-cdn.net#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@104.19.37.10:443?encryption=none&type=ws&host=free.aliamini.net&path=%2F%40AlaedinVPN&security=tls&sni=free.aliamini.net#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
