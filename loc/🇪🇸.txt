@@ -5,4 +5,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://df7f9ba3-ea64-4275-b2aa-d4fef07d9ab7@es-1.seemsflower.ru:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=samsung.com#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8

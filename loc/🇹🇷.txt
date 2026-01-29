@@ -2,7 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@77.83.245.98:2222#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ==@95.164.116.33:443#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@77.83.245.98:2222#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+trojan://nodes-b211f28a@node-tr-1.v2sv.top:2083?security=tls&insecure=0&host=TELEGRAM--JKVPN&headerType=none&type=tcp&allowInsecure=0&sni=node-tr-1.v2sv.top#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4e3IiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6IjM5NjUxIiwiaWQiOiJhYzRjMTJjNS00NWYyLTQzOTgtYTcxOC05OTgzOTQxZWRlMmIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJhbHBuIjoiIn0
-vless://563c07c5-d7a7-4f67-abee-ca323b5ce0ba@iar.blackhoster.com:351?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=fd1dff03520d8f56#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://73203536-b99b-44bd-83bf-6b25d5254340@tunnel.alireza031.net:54436?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
