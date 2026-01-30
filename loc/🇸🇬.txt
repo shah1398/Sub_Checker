@@ -3,16 +3,16 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.150.76:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.116.227:544?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.87.174:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.150.76:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.87.174:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.138.24:544?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.63.16:3901?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.138.24:544?allowInsecure=1&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.138.24:544?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://9f6ffb3c-de36-4a48-8cae-34d7e3ede5ea@bf.branly23.cloud:2087?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441/?type=ws&encryption=none&flow=&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://d6d7e024-0a49-483d-bcd7-048c4d30eca6@node1.nanonet.host:22539/?type=tcp&encryption=none&flow=&security=tls&sni=node1.nanonet.host&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://d7a84b8a-66c3-4b9c-b1b7-d576058c489f@167.172.83.42:11441?encryption=none&type=ws&host=zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC

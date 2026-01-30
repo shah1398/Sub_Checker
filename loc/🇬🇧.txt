@@ -2,17 +2,17 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN2U2NDVkY2YxMWRlZDFm@57.128.190.144:47000#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5M1Nvd3FVa3J0MWNibTQ4N2c3NEFj@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@185.5.38.111:55988#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=%2F%40AlaedinVPN%3Fed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://85f9e89d-3298-4c2c-9a03-8ab71be0f986@212.183.88.29:443?path=/@AlaedinVPN?ed&security=tls&encryption=none&insecure=0&host=free.aliamini.net&fp=chrome&type=ws&allowInsecure=0&sni=free.aliamini.net#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://a5e872dd-8d1d-4d89-83ac-ac1e13d38912@8.208.27.141:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=static.cloud.coveo.com&fp=firefox&pbk=HerZfkes2tFtduXTu7Ybx2aBjxVm_xoiDU4E-kMWpxw&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&type=ws&host=google.com&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://844e0f15-6ea4-4dd7-8f08-11311c9c23e8@chatgpt.gonde.lat:2083?encryption=none&type=ws&host=londoncloud.sonamii.com&path=%2F%3Fed%3D2440&security=tls&sni=londoncloud.sonamii.com#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://a5f7e339-f269-4967-8686-d6e3a0ebe22c@alex007.b-cdn.net:443?encryption=none&type=ws&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=alex007.b-cdn.net#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
