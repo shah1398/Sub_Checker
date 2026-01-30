@@ -3,8 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzJhNTE5YzgxNDdhOTk4@38.54.29.18:11201#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://448ec8dc-1cd0-44ee-88a3-69ecac3057e2@brenna.ns.cloudflare.com:443?&security=tls&sni=639052472056056886.altima-rvltnb.info&type=ws&headerType=none&host=639052472056056886.altima-rvltnb.info&path=%2Fhqlmxvws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://44685034-88bb-4a40-a5c8-97559d2179e9@clyde.ns.cloudflare.com:443?&security=tls&sni=639052472056058285.altima-rvltnb.info&type=ws&headerType=none&host=639052472056058285.altima-rvltnb.info&path=%2Ffelaouws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
 vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&sid=958639bf55e679#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
+vless://44685034-88bb-4a40-a5c8-97559d2179e9@clyde.ns.cloudflare.com:443?&security=tls&sni=639052472056058285.altima-rvltnb.info&type=ws&headerType=none&host=639052472056058285.altima-rvltnb.info&path=%2Ffelaouws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
+vless://448ec8dc-1cd0-44ee-88a3-69ecac3057e2@brenna.ns.cloudflare.com:443?&security=tls&sni=639052472056056886.altima-rvltnb.info&type=ws&headerType=none&host=639052472056056886.altima-rvltnb.info&path=%2Fhqlmxvws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
 vless://448ec8dc-1cd0-44ee-88a3-69ecac3057e2@brenna.ns.cloudflare.com:443?encryption=none&type=ws&host=639052472056056886.altima-rvltnb.info&path=%2Fhqlmxvws&security=tls&sni=639052472056056886.altima-rvltnb.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://44685034-88bb-4a40-a5c8-97559d2179e9@clyde.ns.cloudflare.com:443?encryption=none&type=ws&host=639052472056058285.altima-rvltnb.info&path=%2Ffelaouws&security=tls&sni=639052472056058285.altima-rvltnb.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
