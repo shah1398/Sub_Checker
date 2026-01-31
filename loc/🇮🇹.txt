@@ -5,4 +5,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://22418064-ba0f-42a2-8838-3c005733cec7@95.141.35.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&alpn=h2&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://6b1c3308-9bb4-45bc-8387-25c969a8c8f9@185.247.184.44:443?security=reality&encryption=none&pbk=rdUs-4bbwNyZ6kxkqZ7J9HfeaA1hGVROZqLgtBdrRl4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wikiportal.su&sid=6bce68ada2c8d581#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
