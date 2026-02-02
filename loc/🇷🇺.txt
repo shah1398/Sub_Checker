@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://881268a6-b20d-46de-bb8a-f6b00deb1cc7@146.185.196.25:59984?security=reality&encryption=none&pbk=LDMOxwtivbGTx-vhAhrT66N_oaEt_ScqXj9QhbQxHDc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=5acf#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
