@@ -4,4 +4,3 @@
 
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@178.250.246.80:1488?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://0d12578e-50da-41b9-a913-6c1d8c0dd713@nodec.azurka.org:443?mode=multi&security=tls&alpn=h2,http/1.1&encryption=none&authority=nodec.azurka.org&fp=chrome&type=grpc&serviceName=api&sni=nodec.azurka.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
