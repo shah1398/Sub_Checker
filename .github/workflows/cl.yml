@@ -3,7 +3,7 @@ name: Sub Checker Creator
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '*/5 * * * *'
 
 concurrency:
   group: ${{ github.workflow }}
