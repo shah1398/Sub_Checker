@@ -3,5 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11204#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&sid=958639bf55e679&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://118abefa-b585-49c5-a342-61d0e75402f5@cdnjs.com:443?path=/bzxqrlws?ed=2560&security=tls&encryption=none&insecure=0&host=639057258093033836.corolla-perma.info&fp=chrome&type=ws&allowInsecure=0&sni=639057258093033836.corolla-perma.info#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%B7

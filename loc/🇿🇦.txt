@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@156.38.168.58:990#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
-vless://6af19a20-48c6-4b3a-8e11-d4e700384580@ams.bestlive.ir:443?encryption=none&type=ws&host=telewebion.com&path=%2Fmedia.steampowered.com%3Fed%3D443&security=none#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
