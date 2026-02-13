@@ -2,23 +2,18 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q=@mx2.drawnrisha.one:55988#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE=@185.5.38.111:55988#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vmess://eyJhZGQiOiI5NS4yMTcuMjUuNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDE4ZjQ0NTktMDU2ZS00YzQxLTkwY2UtMTJjYmMyYzY3MGIyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjE1MiIsInBzIjoiaGFtZWRwNzE6OvCfh6vwn4euIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ
-vmess://eyJhZGQiOiI5NS4yMTYuMTgzLjExMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmNDQ1OS0wNTZlLTRjNDEtOTBjZS0xMmNiYzJjNjcwYjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQyMTUyIiwicHMiOiJoYW1lZHA3MTo68J+Hq/Cfh64iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@141.98.4.67:52952#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@finland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=abc323#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&sni=google.com&fp=chrome&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&sid=365c07ed&type=tcp&path=/#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://373a56eb-aaa9-4a92-b209-503dd916900f@64.188.125.104:443?sni=www.vk.com&sid=286e2d&security=reality&headerType=none&encryption=none&fp=chrome&type=tcp&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@h22.amoosias.site:18521?encryption=none&security=none&type=ws&host=h22.amoosias.site&path=%2F#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521?path=%2F&security=none&encryption=none&host=65.109.203.5&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@65.109.203.5:18521?encryption=none&type=ws&host=65.109.203.5&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?encryption=none&type=grpc&serviceName=TunService&security=reality&fp=chrome&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&sni=www.microsoft.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@fit.jojack.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fit.jojack.ru&fp=chrome&security=reality&pbk=u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw&sid=f8865ecbb9bc11a3#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://bbb0d738-975d-41c5-ebfe-164f8cdc914f@h22.amoosias.site:18521?path=/?ed=1024&security=none&encryption=none&host=h22.amoosias.site&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=&amp;encryption=none&amp;headerType=&amp;type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE

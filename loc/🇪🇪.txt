@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.140.115:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://e35dd2de-7a4c-4af4-b671-1592e286a040@ee01.keyinvest.org:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=G39Eg-wogA8ErCPDN0SOwh-9QHJ-PrIIs_EKVvPeeAY&sni=keyinvest.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
