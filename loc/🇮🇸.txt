@@ -4,5 +4,5 @@
 
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
-trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
+trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B8
