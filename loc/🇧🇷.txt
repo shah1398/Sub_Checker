@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4@157.185.173.60:46727#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vless://03ea79e8-3e62-4fb0-9947-b64286e6b26d@br-m247-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
