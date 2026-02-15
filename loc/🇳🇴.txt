@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://e4d23abf-0ffa-44b8-814a-d6db1b9be877@212.147.232.128:443?security=reality&encryption=none&pbk=EN0PFnL5V16DRZ3uJteWOd1AZCcCy25MvldTgtTAgC4&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.yahoo.com&sid=9351feaaa9#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B4
